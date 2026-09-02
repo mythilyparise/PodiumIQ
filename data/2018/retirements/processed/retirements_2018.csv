@@ -1,0 +1,230 @@
+DriverNumber,FullName,Abbreviation,TeamName,Position,GridPosition,Status,Points,Laps,Year,RoundNumber
+28,Brendon Hartley,HAR,Toro Rosso,15.0,16.0,+1 Lap,0.0,57.0,2018,1
+8,Romain Grosjean,GRO,Haas F1 Team,16.0,6.0,Wheel,0.0,24.0,2018,1
+20,Kevin Magnussen,MAG,Haas F1 Team,17.0,5.0,Wheel,0.0,22.0,2018,1
+10,Pierre Gasly,GAS,Toro Rosso,18.0,20.0,Engine,0.0,13.0,2018,1
+9,Marcus Ericsson,ERI,Sauber,19.0,17.0,Steering,0.0,5.0,2018,1
+35,Sergey Sirotkin,SIR,Williams,20.0,19.0,Brakes,0.0,4.0,2018,1
+14,Fernando Alonso,ALO,McLaren,7.0,13.0,+1 Lap,6.0,56.0,2018,2
+2,Stoffel Vandoorne,VAN,McLaren,8.0,14.0,+1 Lap,4.0,56.0,2018,2
+9,Marcus Ericsson,ERI,Sauber,9.0,17.0,+1 Lap,2.0,56.0,2018,2
+31,Esteban Ocon,OCO,Force India,10.0,8.0,+1 Lap,1.0,56.0,2018,2
+55,Carlos Sainz,SAI,Renault,11.0,10.0,+1 Lap,0.0,56.0,2018,2
+16,Charles Leclerc,LEC,Sauber,12.0,19.0,+1 Lap,0.0,56.0,2018,2
+8,Romain Grosjean,GRO,Haas F1 Team,13.0,16.0,+1 Lap,0.0,56.0,2018,2
+18,Lance Stroll,STR,Williams,14.0,20.0,+1 Lap,0.0,56.0,2018,2
+35,Sergey Sirotkin,SIR,Williams,15.0,18.0,+1 Lap,0.0,56.0,2018,2
+11,Sergio Perez,PER,Force India,16.0,12.0,+1 Lap,0.0,56.0,2018,2
+28,Brendon Hartley,HAR,Toro Rosso,17.0,11.0,+1 Lap,0.0,56.0,2018,2
+7,Kimi Räikkönen,RAI,Ferrari,18.0,2.0,Wheel,0.0,35.0,2018,2
+33,Max Verstappen,VER,Red Bull Racing,19.0,15.0,Puncture,0.0,3.0,2018,2
+3,Daniel Ricciardo,RIC,Red Bull Racing,20.0,4.0,Electrical,0.0,1.0,2018,2
+28,Brendon Hartley,HAR,Toro Rosso,20.0,15.0,Collision damage,0.0,51.0,2018,3
+77,Valtteri Bottas,BOT,Mercedes,14.0,3.0,Puncture,0.0,48.0,2018,4
+8,Romain Grosjean,GRO,Haas F1 Team,15.0,20.0,Accident,0.0,42.0,2018,4
+33,Max Verstappen,VER,Red Bull Racing,16.0,5.0,Collision,0.0,39.0,2018,4
+3,Daniel Ricciardo,RIC,Red Bull Racing,17.0,4.0,Collision,0.0,39.0,2018,4
+27,Nico Hulkenberg,HUL,Renault,18.0,14.0,Accident,0.0,10.0,2018,4
+31,Esteban Ocon,OCO,Force India,19.0,7.0,Collision,0.0,0.0,2018,4
+35,Sergey Sirotkin,SIR,Williams,20.0,11.0,Collision,0.0,0.0,2018,4
+20,Kevin Magnussen,MAG,Haas F1 Team,6.0,7.0,+1 Lap,8.0,65.0,2018,5
+55,Carlos Sainz,SAI,Renault,7.0,9.0,+1 Lap,6.0,65.0,2018,5
+14,Fernando Alonso,ALO,McLaren,8.0,8.0,+1 Lap,4.0,65.0,2018,5
+11,Sergio Perez,PER,Force India,9.0,15.0,+2 Laps,2.0,64.0,2018,5
+16,Charles Leclerc,LEC,Sauber,10.0,14.0,+2 Laps,1.0,64.0,2018,5
+18,Lance Stroll,STR,Williams,11.0,18.0,+2 Laps,0.0,64.0,2018,5
+28,Brendon Hartley,HAR,Toro Rosso,12.0,20.0,+2 Laps,0.0,64.0,2018,5
+9,Marcus Ericsson,ERI,Sauber,13.0,17.0,+2 Laps,0.0,64.0,2018,5
+35,Sergey Sirotkin,SIR,Williams,14.0,19.0,+3 Laps,0.0,63.0,2018,5
+2,Stoffel Vandoorne,VAN,McLaren,15.0,11.0,Gearbox,0.0,45.0,2018,5
+31,Esteban Ocon,OCO,Force India,16.0,13.0,Oil leak,0.0,38.0,2018,5
+7,Kimi Räikkönen,RAI,Ferrari,17.0,4.0,Turbo,0.0,25.0,2018,5
+8,Romain Grosjean,GRO,Haas F1 Team,18.0,10.0,Collision,0.0,0.0,2018,5
+10,Pierre Gasly,GAS,Toro Rosso,19.0,12.0,Collision,0.0,0.0,2018,5
+27,Nico Hulkenberg,HUL,Renault,20.0,16.0,Collision,0.0,0.0,2018,5
+2,Stoffel Vandoorne,VAN,McLaren,14.0,12.0,+1 Lap,0.0,77.0,2018,6
+8,Romain Grosjean,GRO,Haas F1 Team,15.0,18.0,+1 Lap,0.0,77.0,2018,6
+35,Sergey Sirotkin,SIR,Williams,16.0,13.0,+1 Lap,0.0,77.0,2018,6
+18,Lance Stroll,STR,Williams,17.0,17.0,+2 Laps,0.0,76.0,2018,6
+16,Charles Leclerc,LEC,Sauber,18.0,14.0,Collision,0.0,70.0,2018,6
+28,Brendon Hartley,HAR,Toro Rosso,19.0,15.0,Collision,0.0,70.0,2018,6
+14,Fernando Alonso,ALO,McLaren,20.0,7.0,Gearbox,0.0,52.0,2018,6
+27,Nico Hulkenberg,HUL,Renault,7.0,7.0,+1 Lap,6.0,67.0,2018,7
+55,Carlos Sainz,SAI,Renault,8.0,9.0,+1 Lap,4.0,67.0,2018,7
+31,Esteban Ocon,OCO,Force India,9.0,8.0,+1 Lap,2.0,67.0,2018,7
+16,Charles Leclerc,LEC,Sauber,10.0,13.0,+1 Lap,1.0,67.0,2018,7
+10,Pierre Gasly,GAS,Toro Rosso,11.0,16.0,+1 Lap,0.0,67.0,2018,7
+8,Romain Grosjean,GRO,Haas F1 Team,12.0,20.0,+1 Lap,0.0,67.0,2018,7
+20,Kevin Magnussen,MAG,Haas F1 Team,13.0,11.0,+1 Lap,0.0,67.0,2018,7
+11,Sergio Perez,PER,Force India,14.0,10.0,+1 Lap,0.0,67.0,2018,7
+9,Marcus Ericsson,ERI,Sauber,15.0,19.0,+2 Laps,0.0,66.0,2018,7
+2,Stoffel Vandoorne,VAN,McLaren,16.0,15.0,+2 Laps,0.0,66.0,2018,7
+35,Sergey Sirotkin,SIR,Williams,17.0,18.0,+2 Laps,0.0,66.0,2018,7
+14,Fernando Alonso,ALO,McLaren,18.0,14.0,Exhaust,0.0,40.0,2018,7
+28,Brendon Hartley,HAR,Toro Rosso,19.0,12.0,Collision,0.0,0.0,2018,7
+18,Lance Stroll,STR,Williams,20.0,17.0,Collision,0.0,0.0,2018,7
+8,Romain Grosjean,GRO,Haas F1 Team,11.0,10.0,+1 Lap,0.0,52.0,2018,8
+2,Stoffel Vandoorne,VAN,McLaren,12.0,17.0,+1 Lap,0.0,52.0,2018,8
+9,Marcus Ericsson,ERI,Sauber,13.0,15.0,+1 Lap,0.0,52.0,2018,8
+28,Brendon Hartley,HAR,Toro Rosso,14.0,20.0,+1 Lap,0.0,52.0,2018,8
+35,Sergey Sirotkin,SIR,Williams,15.0,18.0,+1 Lap,0.0,52.0,2018,8
+14,Fernando Alonso,ALO,McLaren,16.0,16.0,Wheel,0.0,50.0,2018,8
+18,Lance Stroll,STR,Williams,17.0,19.0,Puncture,0.0,48.0,2018,8
+11,Sergio Perez,PER,Force India,18.0,13.0,Engine,0.0,27.0,2018,8
+31,Esteban Ocon,OCO,Force India,19.0,11.0,Collision,0.0,0.0,2018,8
+10,Pierre Gasly,GAS,Toro Rosso,20.0,14.0,Collision,0.0,0.0,2018,8
+8,Romain Grosjean,GRO,Haas F1 Team,4.0,5.0,+1 Lap,12.0,70.0,2018,9
+20,Kevin Magnussen,MAG,Haas F1 Team,5.0,8.0,+1 Lap,10.0,70.0,2018,9
+31,Esteban Ocon,OCO,Force India,6.0,11.0,+1 Lap,8.0,70.0,2018,9
+11,Sergio Perez,PER,Force India,7.0,16.0,+1 Lap,6.0,70.0,2018,9
+14,Fernando Alonso,ALO,McLaren,8.0,13.0,+1 Lap,4.0,70.0,2018,9
+16,Charles Leclerc,LEC,Sauber,9.0,18.0,+1 Lap,2.0,70.0,2018,9
+9,Marcus Ericsson,ERI,Sauber,10.0,20.0,+1 Lap,1.0,70.0,2018,9
+10,Pierre Gasly,GAS,Toro Rosso,11.0,12.0,+1 Lap,0.0,70.0,2018,9
+55,Carlos Sainz,SAI,Renault,12.0,9.0,+1 Lap,0.0,70.0,2018,9
+35,Sergey Sirotkin,SIR,Williams,13.0,17.0,+2 Laps,0.0,69.0,2018,9
+18,Lance Stroll,STR,Williams,14.0,14.0,+2 Laps,0.0,69.0,2018,9
+2,Stoffel Vandoorne,VAN,McLaren,15.0,15.0,Collision damage,0.0,65.0,2018,9
+44,Lewis Hamilton,HAM,Mercedes,16.0,2.0,Fuel pressure,0.0,62.0,2018,9
+28,Brendon Hartley,HAR,Toro Rosso,17.0,19.0,Hydraulics,0.0,54.0,2018,9
+3,Daniel Ricciardo,RIC,Red Bull Racing,18.0,7.0,Exhaust,0.0,53.0,2018,9
+77,Valtteri Bottas,BOT,Mercedes,19.0,1.0,Hydraulics,0.0,13.0,2018,9
+27,Nico Hulkenberg,HUL,Renault,20.0,10.0,Engine,0.0,11.0,2018,9
+33,Max Verstappen,VER,Red Bull Racing,15.0,5.0,Brakes,0.0,46.0,2018,10
+8,Romain Grosjean,GRO,Haas F1 Team,16.0,8.0,Collision,0.0,37.0,2018,10
+55,Carlos Sainz,SAI,Renault,17.0,16.0,Collision,0.0,37.0,2018,10
+9,Marcus Ericsson,ERI,Sauber,18.0,15.0,Accident,0.0,31.0,2018,10
+16,Charles Leclerc,LEC,Sauber,19.0,9.0,Tyre,0.0,18.0,2018,10
+28,Brendon Hartley,HAR,Toro Rosso,20.0,0.0,Power Unit,0.0,1.0,2018,10
+10,Pierre Gasly,GAS,Toro Rosso,14.0,16.0,+1 Lap,0.0,66.0,2018,11
+16,Charles Leclerc,LEC,Sauber,15.0,9.0,+1 Lap,0.0,66.0,2018,11
+14,Fernando Alonso,ALO,McLaren,16.0,11.0,Retired,0.0,65.0,2018,11
+18,Lance Stroll,STR,Williams,17.0,18.0,Engine,0.0,53.0,2018,11
+5,Sebastian Vettel,VET,Ferrari,18.0,1.0,Accident,0.0,51.0,2018,11
+35,Sergey Sirotkin,SIR,Williams,19.0,12.0,Engine,0.0,51.0,2018,11
+3,Daniel Ricciardo,RIC,Red Bull Racing,20.0,20.0,Engine,0.0,27.0,2018,11
+20,Kevin Magnussen,MAG,Haas F1 Team,7.0,9.0,+1 Lap,6.0,69.0,2018,12
+14,Fernando Alonso,ALO,McLaren,8.0,11.0,+1 Lap,4.0,69.0,2018,12
+55,Carlos Sainz,SAI,Renault,9.0,5.0,+1 Lap,2.0,69.0,2018,12
+8,Romain Grosjean,GRO,Haas F1 Team,10.0,10.0,+1 Lap,1.0,69.0,2018,12
+28,Brendon Hartley,HAR,Toro Rosso,11.0,8.0,+1 Lap,0.0,69.0,2018,12
+27,Nico Hulkenberg,HUL,Renault,12.0,13.0,+1 Lap,0.0,69.0,2018,12
+31,Esteban Ocon,OCO,Force India,13.0,18.0,+1 Lap,0.0,69.0,2018,12
+11,Sergio Perez,PER,Force India,14.0,19.0,+1 Lap,0.0,69.0,2018,12
+9,Marcus Ericsson,ERI,Sauber,15.0,14.0,+2 Laps,0.0,68.0,2018,12
+35,Sergey Sirotkin,SIR,Williams,16.0,20.0,+2 Laps,0.0,68.0,2018,12
+18,Lance Stroll,STR,Williams,17.0,15.0,+2 Laps,0.0,68.0,2018,12
+2,Stoffel Vandoorne,VAN,McLaren,18.0,16.0,Gearbox,0.0,49.0,2018,12
+33,Max Verstappen,VER,Red Bull Racing,19.0,7.0,Power loss,0.0,5.0,2018,12
+16,Charles Leclerc,LEC,Sauber,20.0,17.0,Suspension,0.0,0.0,2018,12
+9,Marcus Ericsson,ERI,Sauber,10.0,13.0,+1 Lap,1.0,43.0,2018,13
+55,Carlos Sainz,SAI,Renault,11.0,14.0,+1 Lap,0.0,43.0,2018,13
+35,Sergey Sirotkin,SIR,Williams,12.0,16.0,+1 Lap,0.0,43.0,2018,13
+18,Lance Stroll,STR,Williams,13.0,17.0,+1 Lap,0.0,43.0,2018,13
+28,Brendon Hartley,HAR,Toro Rosso,14.0,11.0,+1 Lap,0.0,43.0,2018,13
+2,Stoffel Vandoorne,VAN,McLaren,15.0,18.0,+1 Lap,0.0,43.0,2018,13
+3,Daniel Ricciardo,RIC,Red Bull Racing,16.0,8.0,Retired,0.0,28.0,2018,13
+7,Kimi Räikkönen,RAI,Ferrari,17.0,6.0,Brakes,0.0,8.0,2018,13
+16,Charles Leclerc,LEC,Sauber,18.0,12.0,Accident,0.0,0.0,2018,13
+14,Fernando Alonso,ALO,McLaren,19.0,15.0,Accident,0.0,0.0,2018,13
+27,Nico Hulkenberg,HUL,Renault,20.0,20.0,Accident,0.0,0.0,2018,13
+18,Lance Stroll,STR,Williams,9.0,10.0,+1 Lap,2.0,52.0,2018,14
+35,Sergey Sirotkin,SIR,Williams,10.0,12.0,+1 Lap,1.0,52.0,2018,14
+16,Charles Leclerc,LEC,Sauber,11.0,15.0,+1 Lap,0.0,52.0,2018,14
+2,Stoffel Vandoorne,VAN,McLaren,12.0,17.0,+1 Lap,0.0,52.0,2018,14
+27,Nico Hulkenberg,HUL,Renault,13.0,20.0,+1 Lap,0.0,52.0,2018,14
+10,Pierre Gasly,GAS,Toro Rosso,14.0,9.0,+1 Lap,0.0,52.0,2018,14
+9,Marcus Ericsson,ERI,Sauber,15.0,18.0,+1 Lap,0.0,52.0,2018,14
+20,Kevin Magnussen,MAG,Haas F1 Team,16.0,11.0,+1 Lap,0.0,52.0,2018,14
+3,Daniel Ricciardo,RIC,Red Bull Racing,17.0,19.0,Engine,0.0,23.0,2018,14
+14,Fernando Alonso,ALO,McLaren,18.0,13.0,Engine,0.0,9.0,2018,14
+28,Brendon Hartley,HAR,Toro Rosso,19.0,16.0,Brakes,0.0,0.0,2018,14
+8,Romain Grosjean,GRO,Haas F1 Team,20.0,6.0,Disqualified,0.0,53.0,2018,14
+55,Carlos Sainz,SAI,Renault,8.0,12.0,+1 Lap,4.0,60.0,2018,15
+16,Charles Leclerc,LEC,Sauber,9.0,13.0,+1 Lap,2.0,60.0,2018,15
+27,Nico Hulkenberg,HUL,Renault,10.0,10.0,+1 Lap,1.0,60.0,2018,15
+9,Marcus Ericsson,ERI,Sauber,11.0,14.0,+1 Lap,0.0,60.0,2018,15
+2,Stoffel Vandoorne,VAN,McLaren,12.0,18.0,+1 Lap,0.0,60.0,2018,15
+10,Pierre Gasly,GAS,Toro Rosso,13.0,15.0,+1 Lap,0.0,60.0,2018,15
+18,Lance Stroll,STR,Williams,14.0,20.0,+1 Lap,0.0,60.0,2018,15
+8,Romain Grosjean,GRO,Haas F1 Team,15.0,8.0,+1 Lap,0.0,60.0,2018,15
+11,Sergio Perez,PER,Racing Point,16.0,7.0,+1 Lap,0.0,60.0,2018,15
+28,Brendon Hartley,HAR,Toro Rosso,17.0,17.0,+1 Lap,0.0,60.0,2018,15
+20,Kevin Magnussen,MAG,Haas F1 Team,18.0,16.0,+2 Laps,0.0,59.0,2018,15
+35,Sergey Sirotkin,SIR,Williams,19.0,19.0,+2 Laps,0.0,59.0,2018,15
+31,Esteban Ocon,OCO,Racing Point,20.0,9.0,Collision,0.0,0.0,2018,15
+20,Kevin Magnussen,MAG,Haas F1 Team,8.0,5.0,+1 Lap,4.0,52.0,2018,16
+31,Esteban Ocon,OCO,Racing Point,9.0,6.0,+1 Lap,2.0,52.0,2018,16
+11,Sergio Perez,PER,Racing Point,10.0,8.0,+1 Lap,1.0,52.0,2018,16
+8,Romain Grosjean,GRO,Haas F1 Team,11.0,9.0,+1 Lap,0.0,52.0,2018,16
+27,Nico Hulkenberg,HUL,Renault,12.0,12.0,+1 Lap,0.0,52.0,2018,16
+9,Marcus Ericsson,ERI,Sauber,13.0,10.0,+1 Lap,0.0,52.0,2018,16
+14,Fernando Alonso,ALO,McLaren,14.0,16.0,+1 Lap,0.0,52.0,2018,16
+18,Lance Stroll,STR,Williams,15.0,14.0,+1 Lap,0.0,52.0,2018,16
+2,Stoffel Vandoorne,VAN,McLaren,16.0,15.0,+2 Laps,0.0,51.0,2018,16
+55,Carlos Sainz,SAI,Renault,17.0,11.0,+2 Laps,0.0,51.0,2018,16
+35,Sergey Sirotkin,SIR,Williams,18.0,13.0,+2 Laps,0.0,51.0,2018,16
+10,Pierre Gasly,GAS,Toro Rosso,19.0,17.0,Brakes,0.0,4.0,2018,16
+28,Brendon Hartley,HAR,Toro Rosso,20.0,20.0,Brakes,0.0,4.0,2018,16
+55,Carlos Sainz,SAI,Renault,10.0,13.0,+1 Lap,1.0,52.0,2018,17
+10,Pierre Gasly,GAS,Toro Rosso,11.0,7.0,+1 Lap,0.0,52.0,2018,17
+9,Marcus Ericsson,ERI,Sauber,12.0,20.0,+1 Lap,0.0,52.0,2018,17
+28,Brendon Hartley,HAR,Toro Rosso,13.0,6.0,+1 Lap,0.0,52.0,2018,17
+14,Fernando Alonso,ALO,McLaren,14.0,18.0,+1 Lap,0.0,52.0,2018,17
+2,Stoffel Vandoorne,VAN,McLaren,15.0,19.0,+1 Lap,0.0,52.0,2018,17
+35,Sergey Sirotkin,SIR,Williams,16.0,17.0,+1 Lap,0.0,52.0,2018,17
+18,Lance Stroll,STR,Williams,17.0,14.0,+1 Lap,0.0,52.0,2018,17
+16,Charles Leclerc,LEC,Sauber,18.0,10.0,Mechanical,0.0,38.0,2018,17
+27,Nico Hulkenberg,HUL,Renault,19.0,16.0,Engine,0.0,37.0,2018,17
+20,Kevin Magnussen,MAG,Haas F1 Team,20.0,12.0,Collision damage,0.0,8.0,2018,17
+28,Brendon Hartley,HAR,Toro Rosso,9.0,20.0,+1 Lap,2.0,55.0,2018,18
+9,Marcus Ericsson,ERI,Sauber,10.0,16.0,+1 Lap,1.0,55.0,2018,18
+2,Stoffel Vandoorne,VAN,McLaren,11.0,17.0,+1 Lap,0.0,55.0,2018,18
+10,Pierre Gasly,GAS,Toro Rosso,12.0,19.0,+1 Lap,0.0,55.0,2018,18
+35,Sergey Sirotkin,SIR,Williams,13.0,14.0,+1 Lap,0.0,55.0,2018,18
+18,Lance Stroll,STR,Williams,14.0,15.0,+2 Laps,0.0,54.0,2018,18
+16,Charles Leclerc,LEC,Sauber,15.0,9.0,Collision damage,0.0,31.0,2018,18
+3,Daniel Ricciardo,RIC,Red Bull Racing,16.0,4.0,Battery,0.0,8.0,2018,18
+8,Romain Grosjean,GRO,Haas F1 Team,17.0,8.0,Collision damage,0.0,2.0,2018,18
+14,Fernando Alonso,ALO,McLaren,18.0,13.0,Collision,0.0,1.0,2018,18
+31,Esteban Ocon,OCO,Racing Point,19.0,6.0,Disqualified,0.0,56.0,2018,18
+20,Kevin Magnussen,MAG,Haas F1 Team,20.0,12.0,Disqualified,0.0,56.0,2018,18
+77,Valtteri Bottas,BOT,Mercedes,5.0,5.0,+1 Lap,10.0,70.0,2018,19
+27,Nico Hulkenberg,HUL,Renault,6.0,7.0,+2 Laps,8.0,69.0,2018,19
+16,Charles Leclerc,LEC,Sauber,7.0,9.0,+2 Laps,6.0,69.0,2018,19
+2,Stoffel Vandoorne,VAN,McLaren,8.0,15.0,+2 Laps,4.0,69.0,2018,19
+9,Marcus Ericsson,ERI,Sauber,9.0,10.0,+2 Laps,2.0,69.0,2018,19
+10,Pierre Gasly,GAS,Toro Rosso,10.0,20.0,+2 Laps,1.0,69.0,2018,19
+31,Esteban Ocon,OCO,Racing Point,11.0,11.0,+2 Laps,0.0,69.0,2018,19
+18,Lance Stroll,STR,Williams,12.0,17.0,+2 Laps,0.0,69.0,2018,19
+35,Sergey Sirotkin,SIR,Williams,13.0,19.0,+2 Laps,0.0,69.0,2018,19
+28,Brendon Hartley,HAR,Toro Rosso,14.0,14.0,+2 Laps,0.0,69.0,2018,19
+20,Kevin Magnussen,MAG,Haas F1 Team,15.0,16.0,+2 Laps,0.0,69.0,2018,19
+8,Romain Grosjean,GRO,Haas F1 Team,16.0,18.0,+3 Laps,0.0,68.0,2018,19
+3,Daniel Ricciardo,RIC,Red Bull Racing,17.0,1.0,Engine,0.0,61.0,2018,19
+11,Sergio Perez,PER,Racing Point,18.0,13.0,Brakes,0.0,38.0,2018,19
+55,Carlos Sainz,SAI,Renault,19.0,8.0,Suspension,0.0,28.0,2018,19
+14,Fernando Alonso,ALO,McLaren,20.0,12.0,Engine,0.0,3.0,2018,19
+11,Sergio Perez,PER,Racing Point,10.0,12.0,+1 Lap,1.0,70.0,2018,20
+28,Brendon Hartley,HAR,Toro Rosso,11.0,16.0,+1 Lap,0.0,70.0,2018,20
+55,Carlos Sainz,SAI,Renault,12.0,15.0,+1 Lap,0.0,70.0,2018,20
+10,Pierre Gasly,GAS,Toro Rosso,13.0,9.0,+1 Lap,0.0,70.0,2018,20
+2,Stoffel Vandoorne,VAN,McLaren,14.0,20.0,+1 Lap,0.0,70.0,2018,20
+31,Esteban Ocon,OCO,Racing Point,15.0,18.0,+1 Lap,0.0,70.0,2018,20
+35,Sergey Sirotkin,SIR,Williams,16.0,14.0,+2 Laps,0.0,69.0,2018,20
+14,Fernando Alonso,ALO,McLaren,17.0,17.0,+2 Laps,0.0,69.0,2018,20
+18,Lance Stroll,STR,Williams,18.0,19.0,+2 Laps,0.0,69.0,2018,20
+27,Nico Hulkenberg,HUL,Renault,19.0,13.0,Overheating,0.0,32.0,2018,20
+9,Marcus Ericsson,ERI,Sauber,20.0,6.0,Collision,0.0,20.0,2018,20
+8,Romain Grosjean,GRO,Haas F1 Team,9.0,7.0,+1 Lap,2.0,54.0,2018,21
+20,Kevin Magnussen,MAG,Haas F1 Team,10.0,13.0,+1 Lap,1.0,54.0,2018,21
+14,Fernando Alonso,ALO,McLaren,11.0,15.0,+1 Lap,0.0,54.0,2018,21
+28,Brendon Hartley,HAR,Toro Rosso,12.0,16.0,+1 Lap,0.0,54.0,2018,21
+18,Lance Stroll,STR,Williams,13.0,20.0,+1 Lap,0.0,54.0,2018,21
+2,Stoffel Vandoorne,VAN,McLaren,14.0,18.0,+1 Lap,0.0,54.0,2018,21
+35,Sergey Sirotkin,SIR,Williams,15.0,19.0,+1 Lap,0.0,54.0,2018,21
+10,Pierre Gasly,GAS,Toro Rosso,16.0,17.0,Engine,0.0,46.0,2018,21
+31,Esteban Ocon,OCO,Racing Point,17.0,9.0,Engine,0.0,44.0,2018,21
+9,Marcus Ericsson,ERI,Sauber,18.0,12.0,Power loss,0.0,24.0,2018,21
+7,Kimi Räikkönen,RAI,Ferrari,19.0,4.0,Power loss,0.0,6.0,2018,21
+27,Nico Hulkenberg,HUL,Renault,20.0,10.0,Collision,0.0,0.0,2018,21
