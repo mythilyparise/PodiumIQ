@@ -1,0 +1,21 @@
+Season,Round,Race,DriverNumber,Driver,DriverName,Team,Position,Status,Points
+2020,9,Tuscan Grand Prix,44,HAM,Lewis Hamilton,Mercedes,1.0,Finished,26.0
+2020,9,Tuscan Grand Prix,77,BOT,Valtteri Bottas,Mercedes,2.0,Finished,18.0
+2020,9,Tuscan Grand Prix,23,ALB,Alexander Albon,Red Bull Racing,3.0,Finished,15.0
+2020,9,Tuscan Grand Prix,3,RIC,Daniel Ricciardo,Renault,4.0,Finished,12.0
+2020,9,Tuscan Grand Prix,11,PER,Sergio Perez,Racing Point,5.0,Finished,10.0
+2020,9,Tuscan Grand Prix,4,NOR,Lando Norris,McLaren,6.0,Finished,8.0
+2020,9,Tuscan Grand Prix,26,KVY,Daniil Kvyat,AlphaTauri,7.0,Finished,6.0
+2020,9,Tuscan Grand Prix,16,LEC,Charles Leclerc,Ferrari,8.0,Finished,4.0
+2020,9,Tuscan Grand Prix,7,RAI,Kimi Räikkönen,Alfa Romeo Racing,9.0,Finished,2.0
+2020,9,Tuscan Grand Prix,5,VET,Sebastian Vettel,Ferrari,10.0,Finished,1.0
+2020,9,Tuscan Grand Prix,63,RUS,George Russell,Williams,11.0,Finished,0.0
+2020,9,Tuscan Grand Prix,8,GRO,Romain Grosjean,Haas F1 Team,12.0,Finished,0.0
+2020,9,Tuscan Grand Prix,18,STR,Lance Stroll,Racing Point,13.0,Puncture,0.0
+2020,9,Tuscan Grand Prix,31,OCO,Esteban Ocon,Renault,14.0,Brakes,0.0
+2020,9,Tuscan Grand Prix,6,LAT,Nicholas Latifi,Williams,15.0,Collision,0.0
+2020,9,Tuscan Grand Prix,20,MAG,Kevin Magnussen,Haas F1 Team,16.0,Collision,0.0
+2020,9,Tuscan Grand Prix,99,GIO,Antonio Giovinazzi,Alfa Romeo Racing,17.0,Collision,0.0
+2020,9,Tuscan Grand Prix,55,SAI,Carlos Sainz,McLaren,18.0,Collision,0.0
+2020,9,Tuscan Grand Prix,33,VER,Max Verstappen,Red Bull Racing,19.0,Collision,0.0
+2020,9,Tuscan Grand Prix,10,GAS,Pierre Gasly,AlphaTauri,20.0,Collision,0.0

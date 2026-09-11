@@ -1,0 +1,21 @@
+Season,Round,Race,DriverNumber,Driver,DriverName,Team,Position,Status,Points
+2020,15,Bahrain Grand Prix,44,HAM,Lewis Hamilton,Mercedes,1.0,Finished,25.0
+2020,15,Bahrain Grand Prix,33,VER,Max Verstappen,Red Bull Racing,2.0,Finished,19.0
+2020,15,Bahrain Grand Prix,23,ALB,Alexander Albon,Red Bull Racing,3.0,Finished,15.0
+2020,15,Bahrain Grand Prix,4,NOR,Lando Norris,McLaren,4.0,Finished,12.0
+2020,15,Bahrain Grand Prix,55,SAI,Carlos Sainz,McLaren,5.0,Finished,10.0
+2020,15,Bahrain Grand Prix,10,GAS,Pierre Gasly,AlphaTauri,6.0,Finished,8.0
+2020,15,Bahrain Grand Prix,3,RIC,Daniel Ricciardo,Renault,7.0,Finished,6.0
+2020,15,Bahrain Grand Prix,77,BOT,Valtteri Bottas,Mercedes,8.0,Finished,4.0
+2020,15,Bahrain Grand Prix,31,OCO,Esteban Ocon,Renault,9.0,Finished,2.0
+2020,15,Bahrain Grand Prix,16,LEC,Charles Leclerc,Ferrari,10.0,+1 Lap,1.0
+2020,15,Bahrain Grand Prix,26,KVY,Daniil Kvyat,AlphaTauri,11.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,63,RUS,George Russell,Williams,12.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,5,VET,Sebastian Vettel,Ferrari,13.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,6,LAT,Nicholas Latifi,Williams,14.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,7,RAI,Kimi Räikkönen,Alfa Romeo Racing,15.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,99,GIO,Antonio Giovinazzi,Alfa Romeo Racing,16.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,20,MAG,Kevin Magnussen,Haas F1 Team,17.0,+1 Lap,0.0
+2020,15,Bahrain Grand Prix,11,PER,Sergio Perez,Racing Point,18.0,Engine,0.0
+2020,15,Bahrain Grand Prix,18,STR,Lance Stroll,Racing Point,19.0,Collision,0.0
+2020,15,Bahrain Grand Prix,8,GRO,Romain Grosjean,Haas F1 Team,20.0,Collision,0.0

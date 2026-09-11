@@ -1,0 +1,21 @@
+Season,Round,Race,DriverNumber,Driver,DriverName,Team,Position,Status,Points
+2020,2,Styrian Grand Prix,44,HAM,Lewis Hamilton,Mercedes,1.0,Finished,25.0
+2020,2,Styrian Grand Prix,77,BOT,Valtteri Bottas,Mercedes,2.0,Finished,18.0
+2020,2,Styrian Grand Prix,33,VER,Max Verstappen,Red Bull Racing,3.0,Finished,15.0
+2020,2,Styrian Grand Prix,23,ALB,Alexander Albon,Red Bull Racing,4.0,Finished,12.0
+2020,2,Styrian Grand Prix,4,NOR,Lando Norris,McLaren,5.0,Finished,10.0
+2020,2,Styrian Grand Prix,11,PER,Sergio Perez,Racing Point,6.0,Finished,8.0
+2020,2,Styrian Grand Prix,18,STR,Lance Stroll,Racing Point,7.0,Finished,6.0
+2020,2,Styrian Grand Prix,3,RIC,Daniel Ricciardo,Renault,8.0,Finished,4.0
+2020,2,Styrian Grand Prix,55,SAI,Carlos Sainz,McLaren,9.0,+1 Lap,3.0
+2020,2,Styrian Grand Prix,26,KVY,Daniil Kvyat,AlphaTauri,10.0,+1 Lap,1.0
+2020,2,Styrian Grand Prix,7,RAI,Kimi Räikkönen,Alfa Romeo Racing,11.0,+1 Lap,0.0
+2020,2,Styrian Grand Prix,20,MAG,Kevin Magnussen,Haas F1 Team,12.0,+1 Lap,0.0
+2020,2,Styrian Grand Prix,8,GRO,Romain Grosjean,Haas F1 Team,13.0,+1 Lap,0.0
+2020,2,Styrian Grand Prix,99,GIO,Antonio Giovinazzi,Alfa Romeo Racing,14.0,+1 Lap,0.0
+2020,2,Styrian Grand Prix,10,GAS,Pierre Gasly,AlphaTauri,15.0,+1 Lap,0.0
+2020,2,Styrian Grand Prix,63,RUS,George Russell,Williams,16.0,+2 Laps,0.0
+2020,2,Styrian Grand Prix,6,LAT,Nicholas Latifi,Williams,17.0,+2 Laps,0.0
+2020,2,Styrian Grand Prix,31,OCO,Esteban Ocon,Renault,18.0,Overheating,0.0
+2020,2,Styrian Grand Prix,16,LEC,Charles Leclerc,Ferrari,19.0,Collision damage,0.0
+2020,2,Styrian Grand Prix,5,VET,Sebastian Vettel,Ferrari,20.0,Collision damage,0.0
