@@ -1,0 +1,5 @@
+Season,Round,Race,Timestamp,Category,Status,Flag,Scope,Sector,LapNumber,DriverNumber,Message
+2020,13,Emilia Romagna Grand Prix,2020-11-01 12:52:40,SafetyCar,DEPLOYED,,,,30,,VIRTUAL SAFETY CAR DEPLOYED
+2020,13,Emilia Romagna Grand Prix,2020-11-01 12:53:04,SafetyCar,ENDING,,,,31,,VIRTUAL SAFETY CAR ENDING
+2020,13,Emilia Romagna Grand Prix,2020-11-01 13:20:38,SafetyCar,DEPLOYED,,,,51,,SAFETY CAR DEPLOYED
+2020,13,Emilia Romagna Grand Prix,2020-11-01 13:33:11,SafetyCar,IN THIS LAP,,,,57,,SAFETY CAR IN THIS LAP

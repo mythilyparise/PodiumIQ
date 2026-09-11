@@ -1,0 +1,5 @@
+Season,Round,Race,Timestamp,Category,Status,Flag,Scope,Sector,LapNumber,DriverNumber,Message
+2020,10,Russian Grand Prix,2020-09-27 11:14:32,SafetyCar,DEPLOYED,,,,1,,SAFETY CAR DEPLOYED
+2020,10,Russian Grand Prix,2020-09-27 11:25:25,SafetyCar,IN THIS LAP,,,,5,,SAFETY CAR IN THIS LAP
+2020,10,Russian Grand Prix,2020-09-27 12:29:53,SafetyCar,DEPLOYED,,,,43,,VIRTUAL SAFETY CAR DEPLOYED
+2020,10,Russian Grand Prix,2020-09-27 12:30:19,SafetyCar,ENDING,,,,43,,VIRTUAL SAFETY CAR ENDING

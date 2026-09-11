@@ -1,0 +1,4 @@
+Season,Round,Race,Timestamp,Category,Status,Flag,Scope,Sector,LapNumber,DriverNumber,Message
+2020,17,Abu Dhabi Grand Prix,2020-12-13 13:29:35,SafetyCar,DEPLOYED,,,,10,,VIRTUAL SAFETY CAR DEPLOYED
+2020,17,Abu Dhabi Grand Prix,2020-12-13 13:32:35,SafetyCar,DEPLOYED,,,,11,,SAFETY CAR DEPLOYED
+2020,17,Abu Dhabi Grand Prix,2020-12-13 13:37:12,SafetyCar,IN THIS LAP,,,,13,,SAFETY CAR IN THIS LAP

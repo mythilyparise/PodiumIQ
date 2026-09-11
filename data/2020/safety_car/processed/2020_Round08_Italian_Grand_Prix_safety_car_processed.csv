@@ -1,0 +1,5 @@
+Season,Round,Race,Timestamp,Category,Status,Flag,Scope,Sector,LapNumber,DriverNumber,Message
+2020,8,Italian Grand Prix,2020-09-06 13:41:36,SafetyCar,DEPLOYED,,,,20,,SAFETY CAR DEPLOYED
+2020,8,Italian Grand Prix,2020-09-06 13:47:13,SafetyCar,IN THIS LAP,,,,23,,SAFETY CAR IN THIS LAP
+2020,8,Italian Grand Prix,2020-09-06 13:50:27,SafetyCar,DEPLOYED,,,,25,,SAFETY CAR DEPLOYED
+2020,8,Italian Grand Prix,2020-09-06 14:21:02,Other,,,,,27,,SAFETY CAR WILL ENTER PITS: STANDING START

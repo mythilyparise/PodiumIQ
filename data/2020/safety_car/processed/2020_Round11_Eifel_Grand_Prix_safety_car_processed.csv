@@ -1,0 +1,5 @@
+Season,Round,Race,Timestamp,Category,Status,Flag,Scope,Sector,LapNumber,DriverNumber,Message
+2020,11,Eifel Grand Prix,2020-10-11 12:37:21,SafetyCar,DEPLOYED,,,,16,,VIRTUAL SAFETY CAR DEPLOYED
+2020,11,Eifel Grand Prix,2020-10-11 12:38:26,SafetyCar,ENDING,,,,17,,VIRTUAL SAFETY CAR ENDING
+2020,11,Eifel Grand Prix,2020-10-11 13:21:48,SafetyCar,DEPLOYED,,,,45,,SAFETY CAR DEPLOYED
+2020,11,Eifel Grand Prix,2020-10-11 13:30:25,SafetyCar,IN THIS LAP,,,,49,,SAFETY CAR IN THIS LAP

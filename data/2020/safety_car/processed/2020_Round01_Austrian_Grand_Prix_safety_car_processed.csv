@@ -1,0 +1,8 @@
+Season,Round,Race,Timestamp,Category,Status,Flag,Scope,Sector,LapNumber,DriverNumber,Message
+2020,1,Austrian Grand Prix,2020-07-05 13:42:32,SafetyCar,DEPLOYED,,,,26,,SAFETY CAR DEPLOYED
+2020,1,Austrian Grand Prix,2020-07-05 13:49:44,SafetyCar,IN THIS LAP,,,,30,,SAFETY CAR IN THIS LAP
+2020,1,Austrian Grand Prix,2020-07-05 14:14:39,SafetyCar,DEPLOYED,,,,51,,SAFETY CAR DEPLOYED
+2020,1,Austrian Grand Prix,2020-07-05 14:19:12,SafetyCar,IN THIS LAP,,,,54,,SAFETY CAR IN THIS LAP
+2020,1,Austrian Grand Prix,2020-07-05 14:20:55,SafetyCar,DEPLOYED,,,,55,,SAFETY CAR DEPLOYED
+2020,1,Austrian Grand Prix,2020-07-05 14:23:00,SafetyCar,THROUGH THE PIT LANE,,,,56,,SAFETY CAR THROUGH THE PIT LANE
+2020,1,Austrian Grand Prix,2020-07-05 14:30:05,SafetyCar,IN THIS LAP,,,,60,,SAFETY CAR IN THIS LAP
