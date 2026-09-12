@@ -1,0 +1,60 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FullName,Position,ClassifiedPosition,GridPosition,Status,Points,Laps,Season,Round,EventName
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,17.0,17,5.0,Retired,0.0,52.0,2021,1,Bahrain Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,18.0,18,17.0,Retired,0.0,51.0,2021,1,Bahrain Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,19.0,R,9.0,Brakes,0.0,32.0,2021,1,Bahrain Grand Prix
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita Mazepin,20.0,R,19.0,Accident,0.0,0.0,2021,1,Bahrain Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,15.0,15,0.0,Gearbox,0.0,61.0,2021,2,Emilia Romagna Grand Prix
+77,BOT,bottas,Mercedes,mercedes,Valtteri Bottas,18.0,R,8.0,Collision,0.0,30.0,2021,2,Emilia Romagna Grand Prix
+63,RUS,russell,Williams,williams,George Russell,19.0,R,12.0,Collision,0.0,30.0,2021,2,Emilia Romagna Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,R,14.0,Collision,0.0,0.0,2021,2,Emilia Romagna Grand Prix
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi Räikkönen,20.0,R,15.0,Collision damage,0.0,1.0,2021,3,Portuguese Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,20.0,R,16.0,Electrical,0.0,6.0,2021,4,Spanish Grand Prix
+77,BOT,bottas,Mercedes,mercedes,Valtteri Bottas,19.0,R,3.0,Wheel nut,0.0,29.0,2021,5,Monaco Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,20.0,W,1.0,Driveshaft,0.0,0.0,2021,5,Monaco Grand Prix
+63,RUS,russell,Williams,williams,George Russell,17.0,R,15.0,Gearbox,0.0,48.0,2021,6,Azerbaijan Grand Prix
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,18.0,R,3.0,Accident,0.0,45.0,2021,6,Azerbaijan Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,19.0,R,19.0,Accident,0.0,29.0,2021,6,Azerbaijan Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,20.0,R,12.0,Turbo,0.0,3.0,2021,6,Azerbaijan Grand Prix
+63,RUS,russell,Williams,williams,George Russell,19.0,R,10.0,Engine,0.0,36.0,2021,8,Styrian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,20.0,R,6.0,Collision,0.0,1.0,2021,8,Styrian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,17.0,17,11.0,Collision,0.0,69.0,2021,9,Austrian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,20.0,R,17.0,Collision,0.0,0.0,2021,9,Austrian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,19.0,R,8.0,Retired,0.0,40.0,2021,10,British Grand Prix
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,20.0,R,1.0,Collision,0.0,0.0,2021,10,British Grand Prix
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita Mazepin,14.0,R,19.0,Collision,0.0,3.0,2021,11,Hungarian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,15.0,R,6.0,Collision,0.0,2.0,2021,11,Hungarian Grand Prix
+77,BOT,bottas,Mercedes,mercedes,Valtteri Bottas,16.0,R,2.0,Collision,0.0,0.0,2021,11,Hungarian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,17.0,R,4.0,Collision,0.0,0.0,2021,11,Hungarian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,18.0,R,7.0,Collision,0.0,0.0,2021,11,Hungarian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,19.0,R,12.0,Collision,0.0,0.0,2021,11,Hungarian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,20.0,D,10.0,Disqualified,0.0,70.0,2021,11,Hungarian Grand Prix
+63,RUS,russell,Williams,williams,George Russell,17.0,17,11.0,Gearbox,0.0,69.0,2021,13,Dutch Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,19.0,R,14.0,Power Unit,0.0,48.0,2021,13,Dutch Grand Prix
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita Mazepin,20.0,R,18.0,Hydraulics,0.0,41.0,2021,13,Dutch Grand Prix
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita Mazepin,16.0,R,16.0,Power Unit,0.0,41.0,2021,14,Italian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,17.0,R,4.0,Collision,0.0,25.0,2021,14,Italian Grand Prix
+33,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,18.0,R,1.0,Collision,0.0,25.0,2021,14,Italian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,19.0,R,0.0,Suspension,0.0,3.0,2021,14,Italian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,20.0,W,0.0,Brakes,0.0,0.0,2021,14,Italian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,19,18.0,Accident,0.0,47.0,2021,15,Russian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,20.0,R,14.0,Oil leak,0.0,32.0,2021,15,Russian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,18.0,R,19.0,Rear wing,0.0,49.0,2021,17,United States Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,19.0,R,11.0,Mechanical,0.0,40.0,2021,17,United States Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,20.0,R,8.0,Suspension,0.0,14.0,2021,17,United States Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,19.0,R,14.0,Collision,0.0,0.0,2021,18,Mexico City Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,20.0,R,17.0,Collision,0.0,0.0,2021,18,Mexico City Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,19.0,R,11.0,Power loss,0.0,49.0,2021,19,São Paulo Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,20.0,R,14.0,Collision damage,0.0,47.0,2021,19,São Paulo Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,R,17.0,Puncture,0.0,50.0,2021,20,Qatar Grand Prix
+77,BOT,bottas,Mercedes,mercedes,Valtteri Bottas,20.0,R,6.0,Damage,0.0,48.0,2021,20,Qatar Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,16.0,R,17.0,Collision damage,0.0,44.0,2021,21,Saudi Arabian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,17.0,R,5.0,Collision,0.0,14.0,2021,21,Saudi Arabian Grand Prix
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita Mazepin,18.0,R,20.0,Collision,0.0,14.0,2021,21,Saudi Arabian Grand Prix
+63,RUS,russell,Williams,williams,George Russell,19.0,R,14.0,Collision,0.0,14.0,2021,21,Saudi Arabian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,20.0,R,19.0,Accident,0.0,8.0,2021,21,Saudi Arabian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,15.0,15,4.0,Engine,0.0,55.0,2021,22,Abu Dhabi Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,16.0,R,16.0,Accident,0.0,50.0,2021,22,Abu Dhabi Grand Prix
+99,GIO,giovinazzi,Alfa Romeo Racing,alfa,Antonio Giovinazzi,17.0,R,14.0,Gearbox,0.0,33.0,2021,22,Abu Dhabi Grand Prix
+63,RUS,russell,Williams,williams,George Russell,18.0,R,17.0,Gearbox,0.0,26.0,2021,22,Abu Dhabi Grand Prix
+7,RAI,raikkonen,Alfa Romeo Racing,alfa,Kimi Räikkönen,19.0,R,18.0,Brakes,0.0,25.0,2021,22,Abu Dhabi Grand Prix
+9,MAZ,mazepin,Haas F1 Team,haas,Nikita Mazepin,,W,,Illness,0.0,0.0,2021,22,Abu Dhabi Grand Prix
