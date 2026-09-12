@@ -1,0 +1,441 @@
+DriverNumber,Abbreviation,DriverId,TeamName,TeamId,FullName,Position,ClassifiedPosition,Q1,Q2,Q3,Status,Season,Round,EventName
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:31.471000,0 days 00:01:30.932000,0 days 00:01:30.558000,,2022,1,Bahrain Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:31.785000,0 days 00:01:30.757000,0 days 00:01:30.681000,,2022,1,Bahrain Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:31.567000,0 days 00:01:30.787000,0 days 00:01:30.687000,,2022,1,Bahrain Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:32.311000,0 days 00:01:31.008000,0 days 00:01:30.921000,,2022,1,Bahrain Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,,0 days 00:01:32.285000,0 days 00:01:31.048000,0 days 00:01:31.238000,,2022,1,Bahrain Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,6.0,,0 days 00:01:31.919000,0 days 00:01:31.717000,0 days 00:01:31.560000,,2022,1,Bahrain Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,7.0,,0 days 00:01:31.955000,0 days 00:01:31.461000,0 days 00:01:31.808000,,2022,1,Bahrain Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,8.0,,0 days 00:01:32.346000,0 days 00:01:31.621000,0 days 00:01:32.195000,,2022,1,Bahrain Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,9.0,,0 days 00:01:32.269000,0 days 00:01:31.252000,0 days 00:01:32.216000,,2022,1,Bahrain Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,10.0,,0 days 00:01:32.096000,0 days 00:01:31.635000,0 days 00:01:32.338000,,2022,1,Bahrain Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,11.0,,0 days 00:01:32.041000,0 days 00:01:31.782000,,,2022,1,Bahrain Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,12.0,,0 days 00:01:32.380000,0 days 00:01:31.998000,,,2022,1,Bahrain Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,13.0,,0 days 00:01:32.239000,0 days 00:01:32.008000,,,2022,1,Bahrain Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,14.0,,0 days 00:01:32.726000,0 days 00:01:32.664000,,,2022,1,Bahrain Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,15.0,,0 days 00:01:32.493000,0 days 00:01:33.543000,,,2022,1,Bahrain Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,16.0,,0 days 00:01:32.750000,,,,2022,1,Bahrain Grand Prix
+27,HUL,hulkenberg,Aston Martin,aston_martin,Nico Hulkenberg,17.0,,0 days 00:01:32.777000,,,,2022,1,Bahrain Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,18.0,,0 days 00:01:32.945000,,,,2022,1,Bahrain Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,19.0,,0 days 00:01:33.032000,,,,2022,1,Bahrain Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:33.634000,,,,2022,1,Bahrain Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,1.0,,0 days 00:01:29.705000,0 days 00:01:28.924000,0 days 00:01:28.200000,,2022,2,Saudi Arabian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,,0 days 00:01:29.039000,0 days 00:01:28.780000,0 days 00:01:28.225000,,2022,2,Saudi Arabian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:28.855000,0 days 00:01:28.686000,0 days 00:01:28.402000,,2022,2,Saudi Arabian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,4.0,,0 days 00:01:28.928000,0 days 00:01:28.945000,0 days 00:01:28.461000,,2022,2,Saudi Arabian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,5.0,,0 days 00:01:30.093000,0 days 00:01:29.584000,0 days 00:01:29.068000,,2022,2,Saudi Arabian Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:29.680000,0 days 00:01:29.618000,0 days 00:01:29.104000,,2022,2,Saudi Arabian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,7.0,,0 days 00:01:29.978000,0 days 00:01:29.295000,0 days 00:01:29.147000,,2022,2,Saudi Arabian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,8.0,,0 days 00:01:29.683000,0 days 00:01:29.404000,0 days 00:01:29.183000,,2022,2,Saudi Arabian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,9.0,,0 days 00:01:29.891000,0 days 00:01:29.418000,0 days 00:01:29.254000,,2022,2,Saudi Arabian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,10.0,,0 days 00:01:29.831000,0 days 00:01:29.546000,0 days 00:01:29.588000,,2022,2,Saudi Arabian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,11.0,,0 days 00:01:29.957000,0 days 00:01:29.651000,,,2022,2,Saudi Arabian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,12.0,,0 days 00:01:30.009000,0 days 00:01:29.773000,,,2022,2,Saudi Arabian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,,0 days 00:01:29.978000,0 days 00:01:29.819000,,,2022,2,Saudi Arabian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,14.0,,0 days 00:01:30.167000,0 days 00:01:29.920000,,,2022,2,Saudi Arabian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,15.0,,0 days 00:01:30.256000,0 days 00:01:31.009000,,,2022,2,Saudi Arabian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,16.0,,0 days 00:01:30.343000,,,,2022,2,Saudi Arabian Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,17.0,,0 days 00:01:30.492000,,,,2022,2,Saudi Arabian Grand Prix
+27,HUL,hulkenberg,Aston Martin,aston_martin,Nico Hulkenberg,18.0,,0 days 00:01:30.543000,,,,2022,2,Saudi Arabian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,,0 days 00:01:31.817000,,,,2022,2,Saudi Arabian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,20.0,,,,,,2022,2,Saudi Arabian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:18.881000,0 days 00:01:18.606000,0 days 00:01:17.868000,,2022,3,Australian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:18.580000,0 days 00:01:18.611000,0 days 00:01:18.154000,,2022,3,Australian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,,0 days 00:01:18.834000,0 days 00:01:18.340000,0 days 00:01:18.240000,,2022,3,Australian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,4.0,,0 days 00:01:19.280000,0 days 00:01:19.066000,0 days 00:01:18.703000,,2022,3,Australian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,,0 days 00:01:19.401000,0 days 00:01:19.106000,0 days 00:01:18.825000,,2022,3,Australian Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:19.405000,0 days 00:01:19.076000,0 days 00:01:18.933000,,2022,3,Australian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,7.0,,0 days 00:01:19.665000,0 days 00:01:19.130000,0 days 00:01:19.032000,,2022,3,Australian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,8.0,,0 days 00:01:19.605000,0 days 00:01:19.136000,0 days 00:01:19.061000,,2022,3,Australian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,9.0,,0 days 00:01:18.983000,0 days 00:01:18.469000,0 days 00:01:19.408000,,2022,3,Australian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,10.0,,0 days 00:01:19.192000,0 days 00:01:18.815000,,,2022,3,Australian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,11.0,,0 days 00:01:19.580000,0 days 00:01:19.226000,,,2022,3,Australian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,,0 days 00:01:19.251000,0 days 00:01:19.410000,,,2022,3,Australian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,13.0,,0 days 00:01:19.742000,0 days 00:01:19.424000,,,2022,3,Australian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:19.910000,0 days 00:01:20.155000,,,2022,3,Australian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,15.0,,0 days 00:01:20.104000,0 days 00:01:20.465000,,,2022,3,Australian Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,16.0,,0 days 00:01:20.135000,,,,2022,3,Australian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,17.0,,0 days 00:01:20.254000,,,,2022,3,Australian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,18.0,,0 days 00:01:21.149000,,,,2022,3,Australian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,,0 days 00:01:21.372000,,,,2022,3,Australian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,20.0,,,,,,2022,3,Australian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:19.295000,0 days 00:01:18.793000,0 days 00:01:27.999000,,2022,4,Emilia Romagna Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,,0 days 00:01:18.796000,0 days 00:01:19.584000,0 days 00:01:28.778000,,2022,4,Emilia Romagna Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,3.0,,0 days 00:01:20.168000,0 days 00:01:19.294000,0 days 00:01:29.131000,,2022,4,Emilia Romagna Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,4.0,,0 days 00:01:20.147000,0 days 00:01:19.902000,0 days 00:01:29.164000,,2022,4,Emilia Romagna Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,5.0,,0 days 00:01:20.198000,0 days 00:01:19.595000,0 days 00:01:29.202000,,2022,4,Emilia Romagna Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,6.0,,0 days 00:01:19.980000,0 days 00:01:20.031000,0 days 00:01:29.742000,,2022,4,Emilia Romagna Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,7.0,,0 days 00:01:19.773000,0 days 00:01:19.296000,0 days 00:01:29.808000,,2022,4,Emilia Romagna Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,8.0,,0 days 00:01:20.419000,0 days 00:01:20.192000,0 days 00:01:30.439000,,2022,4,Emilia Romagna Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,9.0,,0 days 00:01:20.364000,0 days 00:01:19.957000,0 days 00:01:31.062000,,2022,4,Emilia Romagna Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,10.0,,0 days 00:01:19.305000,0 days 00:01:18.990000,,,2022,4,Emilia Romagna Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,11.0,,0 days 00:01:20.383000,0 days 00:01:20.757000,,,2022,4,Emilia Romagna Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,12.0,,0 days 00:01:20.422000,0 days 00:01:20.916000,,,2022,4,Emilia Romagna Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,13.0,,0 days 00:01:20.470000,0 days 00:01:21.138000,,,2022,4,Emilia Romagna Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:19.730000,0 days 00:01:21.434000,,,2022,4,Emilia Romagna Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,15.0,,0 days 00:01:20.342000,0 days 00:01:28.119000,,,2022,4,Emilia Romagna Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,16.0,,0 days 00:01:20.474000,,,,2022,4,Emilia Romagna Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,17.0,,0 days 00:01:20.732000,,,,2022,4,Emilia Romagna Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,18.0,,0 days 00:01:21.971000,,,,2022,4,Emilia Romagna Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,19.0,,0 days 00:01:22.338000,,,,2022,4,Emilia Romagna Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,20.0,,,,,,2022,4,Emilia Romagna Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:29.474000,0 days 00:01:29.130000,0 days 00:01:28.796000,,2022,5,Miami Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,2.0,,0 days 00:01:30.079000,0 days 00:01:29.729000,0 days 00:01:28.986000,,2022,5,Miami Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,3.0,,0 days 00:01:29.836000,0 days 00:01:29.202000,0 days 00:01:28.991000,,2022,5,Miami Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:30.055000,0 days 00:01:29.673000,0 days 00:01:29.036000,,2022,5,Miami Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,5.0,,0 days 00:01:30.845000,0 days 00:01:29.751000,0 days 00:01:29.475000,,2022,5,Miami Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,,0 days 00:01:30.388000,0 days 00:01:29.797000,0 days 00:01:29.625000,,2022,5,Miami Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,7.0,,0 days 00:01:30.779000,0 days 00:01:30.128000,0 days 00:01:29.690000,,2022,5,Miami Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,8.0,,0 days 00:01:30.761000,0 days 00:01:29.634000,0 days 00:01:29.750000,,2022,5,Miami Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,9.0,,0 days 00:01:30.485000,0 days 00:01:30.031000,0 days 00:01:29.932000,,2022,5,Miami Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,10.0,,0 days 00:01:30.441000,0 days 00:01:29.996000,0 days 00:01:30.676000,,2022,5,Miami Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,11.0,,0 days 00:01:30.407000,0 days 00:01:30.160000,,,2022,5,Miami Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,12.0,,0 days 00:01:30.490000,0 days 00:01:30.173000,,,2022,5,Miami Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,13.0,,0 days 00:01:30.677000,0 days 00:01:30.214000,,,2022,5,Miami Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,14.0,,0 days 00:01:30.583000,0 days 00:01:30.310000,,,2022,5,Miami Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,15.0,,0 days 00:01:30.645000,0 days 00:01:30.423000,,,2022,5,Miami Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,16.0,,0 days 00:01:30.975000,,,,2022,5,Miami Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,17.0,,0 days 00:01:31.020000,,,,2022,5,Miami Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,18.0,,0 days 00:01:31.266000,,,,2022,5,Miami Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,,0 days 00:01:31.325000,,,,2022,5,Miami Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,20.0,,,,,,2022,5,Miami Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:19.861000,0 days 00:01:19.969000,0 days 00:01:18.750000,,2022,6,Spanish Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:20.091000,0 days 00:01:19.219000,0 days 00:01:19.073000,,2022,6,Spanish Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:19.892000,0 days 00:01:19.453000,0 days 00:01:19.166000,,2022,6,Spanish Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,4.0,,0 days 00:01:20.218000,0 days 00:01:19.470000,0 days 00:01:19.393000,,2022,6,Spanish Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,5.0,,0 days 00:01:20.447000,0 days 00:01:19.830000,0 days 00:01:19.420000,,2022,6,Spanish Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,,0 days 00:01:20.252000,0 days 00:01:19.794000,0 days 00:01:19.512000,,2022,6,Spanish Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,7.0,,0 days 00:01:20.355000,0 days 00:01:20.053000,0 days 00:01:19.608000,,2022,6,Spanish Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,8.0,,0 days 00:01:20.227000,0 days 00:01:19.810000,0 days 00:01:19.682000,,2022,6,Spanish Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,9.0,,0 days 00:01:20.549000,0 days 00:01:20.287000,0 days 00:01:20.297000,,2022,6,Spanish Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,10.0,,0 days 00:01:20.683000,0 days 00:01:20.436000,0 days 00:01:20.368000,,2022,6,Spanish Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,11.0,,0 days 00:01:20.838000,0 days 00:01:20.471000,,,2022,6,Spanish Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,12.0,,0 days 00:01:20.880000,0 days 00:01:20.638000,,,2022,6,Spanish Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,13.0,,0 days 00:01:20.707000,0 days 00:01:20.639000,,,2022,6,Spanish Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,14.0,,0 days 00:01:20.719000,0 days 00:01:20.861000,,,2022,6,Spanish Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,15.0,,0 days 00:01:20.476000,0 days 00:01:21.094000,,,2022,6,Spanish Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,16.0,,0 days 00:01:20.954000,,,,2022,6,Spanish Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,17.0,,0 days 00:01:21.043000,,,,2022,6,Spanish Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,18.0,,0 days 00:01:21.418000,,,,2022,6,Spanish Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,19.0,,0 days 00:01:21.645000,,,,2022,6,Spanish Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:21.915000,,,,2022,6,Spanish Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:12.569000,0 days 00:01:11.864000,0 days 00:01:11.376000,,2022,7,Monaco Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,2.0,,0 days 00:01:12.616000,0 days 00:01:12.074000,0 days 00:01:11.601000,,2022,7,Monaco Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,,0 days 00:01:13.004000,0 days 00:01:11.954000,0 days 00:01:11.629000,,2022,7,Monaco Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,4.0,,0 days 00:01:12.993000,0 days 00:01:12.117000,0 days 00:01:11.666000,,2022,7,Monaco Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,5.0,,0 days 00:01:12.927000,0 days 00:01:12.266000,0 days 00:01:11.849000,,2022,7,Monaco Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:12.787000,0 days 00:01:12.617000,0 days 00:01:12.112000,,2022,7,Monaco Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,7.0,,0 days 00:01:13.394000,0 days 00:01:12.688000,0 days 00:01:12.247000,,2022,7,Monaco Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,8.0,,0 days 00:01:13.444000,0 days 00:01:12.595000,0 days 00:01:12.560000,,2022,7,Monaco Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,9.0,,0 days 00:01:13.313000,0 days 00:01:12.613000,0 days 00:01:12.732000,,2022,7,Monaco Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,10.0,,0 days 00:01:12.848000,0 days 00:01:12.528000,0 days 00:01:13.047000,,2022,7,Monaco Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,11.0,,0 days 00:01:13.110000,0 days 00:01:12.797000,,,2022,7,Monaco Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,,0 days 00:01:13.541000,0 days 00:01:12.909000,,,2022,7,Monaco Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,13.0,,0 days 00:01:13.069000,0 days 00:01:12.921000,,,2022,7,Monaco Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,14.0,,0 days 00:01:13.338000,0 days 00:01:12.964000,,,2022,7,Monaco Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,15.0,,0 days 00:01:13.469000,0 days 00:01:13.081000,,,2022,7,Monaco Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,16.0,,0 days 00:01:13.611000,,,,2022,7,Monaco Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,17.0,,0 days 00:01:13.660000,,,,2022,7,Monaco Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,18.0,,0 days 00:01:13.678000,,,,2022,7,Monaco Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,,0 days 00:01:14.403000,,,,2022,7,Monaco Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,20.0,,0 days 00:01:15.606000,,,,2022,7,Monaco Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:42.865000,0 days 00:01:42.046000,0 days 00:01:41.359000,,2022,8,Azerbaijan Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,,0 days 00:01:42.733000,0 days 00:01:41.955000,0 days 00:01:41.641000,,2022,8,Azerbaijan Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,3.0,,0 days 00:01:42.722000,0 days 00:01:42.227000,0 days 00:01:41.706000,,2022,8,Azerbaijan Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,4.0,,0 days 00:01:42.957000,0 days 00:01:42.088000,0 days 00:01:41.814000,,2022,8,Azerbaijan Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,5.0,,0 days 00:01:43.754000,0 days 00:01:43.281000,0 days 00:01:42.712000,,2022,8,Azerbaijan Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,6.0,,0 days 00:01:43.268000,0 days 00:01:43.129000,0 days 00:01:42.845000,,2022,8,Azerbaijan Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,7.0,,0 days 00:01:43.939000,0 days 00:01:43.182000,0 days 00:01:42.924000,,2022,8,Azerbaijan Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,8.0,,0 days 00:01:43.595000,0 days 00:01:43.376000,0 days 00:01:43.056000,,2022,8,Azerbaijan Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,9.0,,0 days 00:01:43.279000,0 days 00:01:43.268000,0 days 00:01:43.091000,,2022,8,Azerbaijan Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,10.0,,0 days 00:01:44.083000,0 days 00:01:43.360000,0 days 00:01:43.173000,,2022,8,Azerbaijan Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,11.0,,0 days 00:01:44.237000,0 days 00:01:43.398000,,,2022,8,Azerbaijan Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,12.0,,0 days 00:01:44.437000,0 days 00:01:43.574000,,,2022,8,Azerbaijan Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,13.0,,0 days 00:01:43.903000,0 days 00:01:43.585000,,,2022,8,Azerbaijan Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:43.777000,0 days 00:01:43.790000,,,2022,8,Azerbaijan Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,15.0,,0 days 00:01:44.478000,0 days 00:01:44.444000,,,2022,8,Azerbaijan Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,16.0,,0 days 00:01:44.643000,,,,2022,8,Azerbaijan Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,17.0,,0 days 00:01:44.719000,,,,2022,8,Azerbaijan Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,18.0,,0 days 00:01:45.367000,,,,2022,8,Azerbaijan Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,19.0,,0 days 00:01:45.371000,,,,2022,8,Azerbaijan Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,20.0,,0 days 00:01:45.775000,,,,2022,8,Azerbaijan Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:32.219000,0 days 00:01:23.746000,0 days 00:01:21.299000,,2022,9,Canadian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,2.0,,0 days 00:01:32.277000,0 days 00:01:24.848000,0 days 00:01:21.944000,,2022,9,Canadian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:32.781000,0 days 00:01:25.197000,0 days 00:01:22.096000,,2022,9,Canadian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,4.0,,0 days 00:01:33.841000,0 days 00:01:25.543000,0 days 00:01:22.891000,,2022,9,Canadian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,5.0,,0 days 00:01:32.957000,0 days 00:01:26.254000,0 days 00:01:22.960000,,2022,9,Canadian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,6.0,,0 days 00:01:33.707000,0 days 00:01:25.684000,0 days 00:01:23.356000,,2022,9,Canadian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,7.0,,0 days 00:01:33.012000,0 days 00:01:26.135000,0 days 00:01:23.529000,,2022,9,Canadian Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,8.0,,0 days 00:01:33.160000,0 days 00:01:24.950000,0 days 00:01:23.557000,,2022,9,Canadian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,9.0,,0 days 00:01:33.636000,0 days 00:01:26.375000,0 days 00:01:23.749000,,2022,9,Canadian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,10.0,,0 days 00:01:33.692000,0 days 00:01:26.116000,0 days 00:01:24.030000,,2022,9,Canadian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,11.0,,0 days 00:01:33.689000,0 days 00:01:26.788000,,,2022,9,Canadian Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,12.0,,0 days 00:01:34.047000,0 days 00:01:26.858000,,,2022,9,Canadian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,13.0,,0 days 00:01:33.929000,0 days 00:01:33.127000,,,2022,9,Canadian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,14.0,,0 days 00:01:34.066000,,,,2022,9,Canadian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,15.0,,0 days 00:01:33.008000,,,,2022,9,Canadian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,16.0,,0 days 00:01:34.492000,,,,2022,9,Canadian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,17.0,,0 days 00:01:34.512000,,,,2022,9,Canadian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,18.0,,0 days 00:01:35.532000,,,,2022,9,Canadian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,,0 days 00:01:35.660000,,,,2022,9,Canadian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,20.0,,0 days 00:01:36.575000,,,,2022,9,Canadian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,1.0,,0 days 00:01:40.190000,0 days 00:01:41.602000,0 days 00:01:40.983000,,2022,10,British Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:39.129000,0 days 00:01:40.655000,0 days 00:01:41.055000,,2022,10,British Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,3.0,,0 days 00:01:39.846000,0 days 00:01:41.247000,0 days 00:01:41.298000,,2022,10,British Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:40.521000,0 days 00:01:42.513000,0 days 00:01:41.616000,,2022,10,British Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,,0 days 00:01:40.428000,0 days 00:01:41.062000,0 days 00:01:41.995000,,2022,10,British Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,6.0,,0 days 00:01:41.515000,0 days 00:01:41.821000,0 days 00:01:42.084000,,2022,10,British Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,7.0,,0 days 00:01:41.598000,0 days 00:01:42.209000,0 days 00:01:42.116000,,2022,10,British Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,8.0,,0 days 00:01:40.028000,0 days 00:01:41.725000,0 days 00:01:42.161000,,2022,10,British Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,9.0,,0 days 00:01:40.791000,0 days 00:01:42.640000,0 days 00:01:42.719000,,2022,10,British Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,10.0,,0 days 00:01:41.998000,0 days 00:01:43.273000,0 days 00:02:03.095000,,2022,10,British Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,11.0,,0 days 00:01:41.680000,0 days 00:01:43.702000,,,2022,10,British Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,,0 days 00:01:41.396000,0 days 00:01:44.232000,,,2022,10,British Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,13.0,,0 days 00:01:41.893000,0 days 00:01:44.311000,,,2022,10,British Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,14.0,,0 days 00:01:41.933000,0 days 00:01:44.355000,,,2022,10,British Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,15.0,,0 days 00:01:41.730000,0 days 00:01:45.190000,,,2022,10,British Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,16.0,,0 days 00:01:42.078000,,,,2022,10,British Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,17.0,,0 days 00:01:42.159000,,,,2022,10,British Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,18.0,,0 days 00:01:42.666000,,,,2022,10,British Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,19.0,,0 days 00:01:42.708000,,,,2022,10,British Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,20.0,,0 days 00:01:43.430000,,,,2022,10,British Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:05.852000,0 days 00:01:05.374000,0 days 00:01:04.984000,,2022,11,Austrian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,,0 days 00:01:05.419000,0 days 00:01:05.287000,0 days 00:01:05.013000,,2022,11,Austrian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:05.660000,0 days 00:01:05.576000,0 days 00:01:05.066000,,2022,11,Austrian Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,4.0,,0 days 00:01:06.235000,0 days 00:01:05.697000,0 days 00:01:05.431000,,2022,11,Austrian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,5.0,,0 days 00:01:06.468000,0 days 00:01:05.993000,0 days 00:01:05.726000,,2022,11,Austrian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,6.0,,0 days 00:01:06.366000,0 days 00:01:05.894000,0 days 00:01:05.879000,,2022,11,Austrian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,7.0,,0 days 00:01:06.405000,0 days 00:01:06.151000,0 days 00:01:06.011000,,2022,11,Austrian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,8.0,,0 days 00:01:06.016000,0 days 00:01:06.082000,0 days 00:01:06.103000,,2022,11,Austrian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,9.0,,0 days 00:01:06.079000,0 days 00:01:05.475000,0 days 00:01:13.151000,,2022,11,Austrian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,10.0,,0 days 00:01:06.589000,0 days 00:01:06.160000,,,2022,11,Austrian Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,11.0,,0 days 00:01:06.516000,0 days 00:01:06.230000,,,2022,11,Austrian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,,0 days 00:01:06.442000,0 days 00:01:06.319000,,,2022,11,Austrian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,13.0,,0 days 00:01:06.143000,0 days 00:01:06.458000,,,2022,11,Austrian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,14.0,,0 days 00:01:06.463000,0 days 00:01:06.851000,,,2022,11,Austrian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,15.0,,0 days 00:01:06.330000,0 days 00:01:25.847000,,,2022,11,Austrian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,16.0,,0 days 00:01:06.613000,,,,2022,11,Austrian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,17.0,,0 days 00:01:06.847000,,,,2022,11,Austrian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,18.0,,0 days 00:01:06.901000,,,,2022,11,Austrian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,19.0,,0 days 00:01:07.003000,,,,2022,11,Austrian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,20.0,,0 days 00:01:07.083000,,,,2022,11,Austrian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:31.727000,0 days 00:01:31.216000,0 days 00:01:30.872000,,2022,12,French Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:31.891000,0 days 00:01:31.990000,0 days 00:01:31.176000,,2022,12,French Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,,0 days 00:01:32.354000,0 days 00:01:32.120000,0 days 00:01:31.335000,,2022,12,French Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,4.0,,0 days 00:01:33.041000,0 days 00:01:32.274000,0 days 00:01:31.765000,,2022,12,French Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,5.0,,0 days 00:01:32.672000,0 days 00:01:32.777000,0 days 00:01:32.032000,,2022,12,French Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:33.109000,0 days 00:01:32.633000,0 days 00:01:32.131000,,2022,12,French Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,7.0,,0 days 00:01:32.819000,0 days 00:01:32.631000,0 days 00:01:32.552000,,2022,12,French Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,8.0,,0 days 00:01:33.394000,0 days 00:01:32.836000,0 days 00:01:32.780000,,2022,12,French Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,9.0,,0 days 00:01:32.297000,0 days 00:01:31.081000,,,2022,12,French Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,10.0,,0 days 00:01:32.756000,0 days 00:01:32.649000,,,2022,12,French Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,11.0,,0 days 00:01:33.404000,0 days 00:01:32.922000,,,2022,12,French Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,12.0,,0 days 00:01:33.346000,0 days 00:01:33.048000,,,2022,12,French Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,13.0,,0 days 00:01:33.034000,0 days 00:01:33.052000,,,2022,12,French Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,14.0,,0 days 00:01:33.285000,0 days 00:01:33.276000,,,2022,12,French Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,15.0,,0 days 00:01:33.423000,0 days 00:01:33.307000,,,2022,12,French Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,16.0,,0 days 00:01:33.439000,,,,2022,12,French Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,17.0,,0 days 00:01:33.439000,,,,2022,12,French Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,18.0,,0 days 00:01:33.674000,,,,2022,12,French Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,19.0,,0 days 00:01:33.701000,,,,2022,12,French Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:33.794000,,,,2022,12,French Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,1.0,,0 days 00:01:18.407000,0 days 00:01:18.154000,0 days 00:01:17.377000,,2022,13,Hungarian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,2.0,,0 days 00:01:18.434000,0 days 00:01:17.946000,0 days 00:01:17.421000,,2022,13,Hungarian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,3.0,,0 days 00:01:18.806000,0 days 00:01:17.768000,0 days 00:01:17.567000,,2022,13,Hungarian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,4.0,,0 days 00:01:18.653000,0 days 00:01:18.121000,0 days 00:01:17.769000,,2022,13,Hungarian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,5.0,,0 days 00:01:18.866000,0 days 00:01:18.216000,0 days 00:01:18.018000,,2022,13,Hungarian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,6.0,,0 days 00:01:18.716000,0 days 00:01:17.904000,0 days 00:01:18.078000,,2022,13,Hungarian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,7.0,,0 days 00:01:18.374000,0 days 00:01:18.035000,0 days 00:01:18.142000,,2022,13,Hungarian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,8.0,,0 days 00:01:18.935000,0 days 00:01:18.445000,0 days 00:01:18.157000,,2022,13,Hungarian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,9.0,,0 days 00:01:18.775000,0 days 00:01:18.198000,0 days 00:01:18.379000,,2022,13,Hungarian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,10.0,,0 days 00:01:18.509000,0 days 00:01:17.703000,0 days 00:01:18.823000,,2022,13,Hungarian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,11.0,,0 days 00:01:19.118000,0 days 00:01:18.516000,,,2022,13,Hungarian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,12.0,,0 days 00:01:18.973000,0 days 00:01:18.573000,,,2022,13,Hungarian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,13.0,,0 days 00:01:18.993000,0 days 00:01:18.825000,,,2022,13,Hungarian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,14.0,,0 days 00:01:19.205000,0 days 00:01:19.137000,,,2022,13,Hungarian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,15.0,,0 days 00:01:19.164000,0 days 00:01:19.202000,,,2022,13,Hungarian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,16.0,,0 days 00:01:19.240000,,,,2022,13,Hungarian Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,17.0,,0 days 00:01:19.256000,,,,2022,13,Hungarian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,18.0,,0 days 00:01:19.273000,,,,2022,13,Hungarian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,19.0,,0 days 00:01:19.527000,,,,2022,13,Hungarian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:19.570000,,,,2022,13,Hungarian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:44.581000,0 days 00:01:44.723000,0 days 00:01:43.665000,,2022,14,Belgian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,2.0,,0 days 00:01:45.050000,0 days 00:01:45.418000,0 days 00:01:44.297000,,2022,14,Belgian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,,0 days 00:01:45.377000,0 days 00:01:44.794000,0 days 00:01:44.462000,,2022,14,Belgian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,4.0,,0 days 00:01:45.572000,0 days 00:01:44.551000,0 days 00:01:44.553000,,2022,14,Belgian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,5.0,,0 days 00:01:46.039000,0 days 00:01:45.475000,0 days 00:01:45.180000,,2022,14,Belgian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,6.0,,0 days 00:01:46.075000,0 days 00:01:45.552000,0 days 00:01:45.368000,,2022,14,Belgian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,7.0,,0 days 00:01:45.736000,0 days 00:01:45.420000,0 days 00:01:45.503000,,2022,14,Belgian Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,8.0,,0 days 00:01:45.650000,0 days 00:01:45.461000,0 days 00:01:45.776000,,2022,14,Belgian Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,9.0,,0 days 00:01:45.672000,0 days 00:01:45.675000,0 days 00:01:45.837000,,2022,14,Belgian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,10.0,,0 days 00:01:45.745000,0 days 00:01:45.603000,0 days 00:01:46.178000,,2022,14,Belgian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,11.0,,0 days 00:01:46.212000,0 days 00:01:45.767000,,,2022,14,Belgian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,12.0,,0 days 00:01:46.183000,0 days 00:01:45.827000,,,2022,14,Belgian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,,0 days 00:01:46.178000,0 days 00:01:46.085000,,,2022,14,Belgian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,14.0,,0 days 00:01:46.256000,0 days 00:01:46.611000,,,2022,14,Belgian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,15.0,,0 days 00:01:46.342000,0 days 00:01:47.718000,,,2022,14,Belgian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,16.0,,0 days 00:01:46.344000,,,,2022,14,Belgian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,17.0,,0 days 00:01:46.401000,,,,2022,14,Belgian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,,0 days 00:01:46.557000,,,,2022,14,Belgian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,19.0,,0 days 00:01:46.692000,,,,2022,14,Belgian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,20.0,,0 days 00:01:47.866000,,,,2022,14,Belgian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:11.317000,0 days 00:01:10.927000,0 days 00:01:10.342000,,2022,15,Dutch Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,,0 days 00:01:11.443000,0 days 00:01:10.988000,0 days 00:01:10.363000,,2022,15,Dutch Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:11.767000,0 days 00:01:10.814000,0 days 00:01:10.434000,,2022,15,Dutch Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,4.0,,0 days 00:01:11.331000,0 days 00:01:11.075000,0 days 00:01:10.648000,,2022,15,Dutch Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,5.0,,0 days 00:01:11.641000,0 days 00:01:11.314000,0 days 00:01:11.077000,,2022,15,Dutch Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:11.561000,0 days 00:01:10.824000,0 days 00:01:11.147000,,2022,15,Dutch Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,7.0,,0 days 00:01:11.556000,0 days 00:01:11.116000,0 days 00:01:11.174000,,2022,15,Dutch Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,8.0,,0 days 00:01:11.741000,0 days 00:01:11.420000,0 days 00:01:11.442000,,2022,15,Dutch Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,9.0,,0 days 00:01:11.427000,0 days 00:01:11.428000,0 days 00:01:12.556000,,2022,15,Dutch Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,10.0,,0 days 00:01:11.568000,0 days 00:01:11.416000,,,2022,15,Dutch Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,11.0,,0 days 00:01:11.705000,0 days 00:01:11.512000,,,2022,15,Dutch Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,12.0,,0 days 00:01:11.748000,0 days 00:01:11.605000,,,2022,15,Dutch Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,13.0,,0 days 00:01:11.667000,0 days 00:01:11.613000,,,2022,15,Dutch Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:11.826000,0 days 00:01:11.704000,,,2022,15,Dutch Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,15.0,,0 days 00:01:11.695000,0 days 00:01:11.802000,,,2022,15,Dutch Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,16.0,,0 days 00:01:11.961000,,,,2022,15,Dutch Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,17.0,,0 days 00:01:12.081000,,,,2022,15,Dutch Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,,0 days 00:01:12.319000,,,,2022,15,Dutch Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,19.0,,0 days 00:01:12.391000,,,,2022,15,Dutch Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:13.353000,,,,2022,15,Dutch Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:21.280000,0 days 00:01:21.208000,0 days 00:01:20.161000,,2022,16,Italian Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:20.922000,0 days 00:01:21.265000,0 days 00:01:20.306000,,2022,16,Italian Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:21.348000,0 days 00:01:20.878000,0 days 00:01:20.429000,,2022,16,Italian Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:21.495000,0 days 00:01:21.358000,0 days 00:01:21.206000,,2022,16,Italian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,,0 days 00:01:22.048000,0 days 00:01:21.708000,0 days 00:01:21.524000,,2022,16,Italian Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:21.785000,0 days 00:01:21.747000,0 days 00:01:21.542000,,2022,16,Italian Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,7.0,,0 days 00:01:22.130000,0 days 00:01:21.831000,0 days 00:01:21.584000,,2022,16,Italian Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,8.0,,0 days 00:01:22.139000,0 days 00:01:21.855000,0 days 00:01:21.925000,,2022,16,Italian Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,9.0,,0 days 00:01:22.010000,0 days 00:01:22.062000,0 days 00:01:22.648000,,2022,16,Italian Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,10.0,,0 days 00:01:22.089000,0 days 00:01:21.861000,,,2022,16,Italian Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,11.0,,0 days 00:01:22.166000,0 days 00:01:22.130000,,,2022,16,Italian Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,,0 days 00:01:22.254000,0 days 00:01:22.235000,,,2022,16,Italian Grand Prix
+45,DEV,de_vries,Williams,williams,Nyck De Vries,13.0,,0 days 00:01:22.567000,0 days 00:01:22.471000,,,2022,16,Italian Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:22.003000,0 days 00:01:22.577000,,,2022,16,Italian Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,15.0,,0 days 00:01:22.020000,,,,2022,16,Italian Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,16.0,,0 days 00:01:22.587000,,,,2022,16,Italian Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,17.0,,0 days 00:01:22.636000,,,,2022,16,Italian Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,18.0,,0 days 00:01:22.748000,,,,2022,16,Italian Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,19.0,,0 days 00:01:22.908000,,,,2022,16,Italian Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,20.0,,0 days 00:01:23.005000,,,,2022,16,Italian Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,1.0,,0 days 00:01:54.129000,0 days 00:01:52.343000,0 days 00:01:49.412000,,2022,17,Singapore Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,,0 days 00:01:54.404000,0 days 00:01:52.818000,0 days 00:01:49.434000,,2022,17,Singapore Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,3.0,,0 days 00:01:53.161000,0 days 00:01:52.691000,0 days 00:01:49.466000,,2022,17,Singapore Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,4.0,,0 days 00:01:54.559000,0 days 00:01:53.219000,0 days 00:01:49.583000,,2022,17,Singapore Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,5.0,,0 days 00:01:55.360000,0 days 00:01:53.127000,0 days 00:01:49.966000,,2022,17,Singapore Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,6.0,,0 days 00:01:55.914000,0 days 00:01:53.942000,0 days 00:01:50.584000,,2022,17,Singapore Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,7.0,,0 days 00:01:55.606000,0 days 00:01:53.546000,0 days 00:01:51.211000,,2022,17,Singapore Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,8.0,,0 days 00:01:53.057000,0 days 00:01:52.723000,0 days 00:01:51.395000,,2022,17,Singapore Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,9.0,,0 days 00:01:55.103000,0 days 00:01:54.006000,0 days 00:01:51.573000,,2022,17,Singapore Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,10.0,,0 days 00:01:55.314000,0 days 00:01:53.848000,0 days 00:01:51.983000,,2022,17,Singapore Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,11.0,,0 days 00:01:54.633000,0 days 00:01:54.012000,,,2022,17,Singapore Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,12.0,,0 days 00:01:55.629000,0 days 00:01:54.211000,,,2022,17,Singapore Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,13.0,,0 days 00:01:55.736000,0 days 00:01:54.370000,,,2022,17,Singapore Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,14.0,,0 days 00:01:55.602000,0 days 00:01:54.380000,,,2022,17,Singapore Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,15.0,,0 days 00:01:55.375000,0 days 00:01:55.518000,,,2022,17,Singapore Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,16.0,,0 days 00:01:56.083000,,,,2022,17,Singapore Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,17.0,,0 days 00:01:56.226000,,,,2022,17,Singapore Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,18.0,,0 days 00:01:56.337000,,,,2022,17,Singapore Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,19.0,,0 days 00:01:56.985000,,,,2022,17,Singapore Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:57.532000,,,,2022,17,Singapore Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:30.224000,0 days 00:01:30.346000,0 days 00:01:29.304000,,2022,18,Japanese Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,,0 days 00:01:30.402000,0 days 00:01:30.486000,0 days 00:01:29.314000,,2022,18,Japanese Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,3.0,,0 days 00:01:30.336000,0 days 00:01:30.444000,0 days 00:01:29.361000,,2022,18,Japanese Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:30.622000,0 days 00:01:29.925000,0 days 00:01:29.709000,,2022,18,Japanese Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,5.0,,0 days 00:01:30.696000,0 days 00:01:30.357000,0 days 00:01:30.165000,,2022,18,Japanese Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,,0 days 00:01:30.906000,0 days 00:01:30.443000,0 days 00:01:30.261000,,2022,18,Japanese Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,7.0,,0 days 00:01:30.603000,0 days 00:01:30.343000,0 days 00:01:30.322000,,2022,18,Japanese Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,8.0,,0 days 00:01:30.865000,0 days 00:01:30.465000,0 days 00:01:30.389000,,2022,18,Japanese Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,9.0,,0 days 00:01:31.256000,0 days 00:01:30.656000,0 days 00:01:30.554000,,2022,18,Japanese Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,10.0,,0 days 00:01:30.881000,0 days 00:01:30.473000,0 days 00:01:31.003000,,2022,18,Japanese Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,11.0,,0 days 00:01:30.880000,0 days 00:01:30.659000,,,2022,18,Japanese Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,,0 days 00:01:31.226000,0 days 00:01:30.709000,,,2022,18,Japanese Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,13.0,,0 days 00:01:31.130000,0 days 00:01:30.808000,,,2022,18,Japanese Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:30.894000,0 days 00:01:30.953000,,,2022,18,Japanese Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,15.0,,0 days 00:01:31.152000,0 days 00:01:31.439000,,,2022,18,Japanese Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,16.0,,0 days 00:01:31.311000,,,,2022,18,Japanese Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,17.0,,0 days 00:01:31.322000,,,,2022,18,Japanese Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,,0 days 00:01:31.352000,,,,2022,18,Japanese Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,19.0,,0 days 00:01:31.419000,,,,2022,18,Japanese Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:31.511000,,,,2022,18,Japanese Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,1.0,,0 days 00:01:35.297000,0 days 00:01:35.590000,0 days 00:01:34.356000,,2022,19,United States Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,,0 days 00:01:35.795000,0 days 00:01:35.246000,0 days 00:01:34.421000,,2022,19,United States Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,3.0,,0 days 00:01:35.864000,0 days 00:01:35.294000,0 days 00:01:34.448000,,2022,19,United States Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:36.163000,0 days 00:01:35.864000,0 days 00:01:34.645000,,2022,19,United States Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,,0 days 00:01:36.148000,0 days 00:01:35.732000,0 days 00:01:34.947000,,2022,19,United States Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:36.195000,0 days 00:01:35.692000,0 days 00:01:34.988000,,2022,19,United States Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,7.0,,0 days 00:01:36.860000,0 days 00:01:36.032000,0 days 00:01:35.598000,,2022,19,United States Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,8.0,,0 days 00:01:36.465000,0 days 00:01:36.341000,0 days 00:01:35.690000,,2022,19,United States Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,9.0,,0 days 00:01:36.446000,0 days 00:01:35.988000,0 days 00:01:35.876000,,2022,19,United States Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,10.0,,0 days 00:01:36.746000,0 days 00:01:36.321000,0 days 00:01:36.319000,,2022,19,United States Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,11.0,,0 days 00:01:36.932000,0 days 00:01:36.368000,,,2022,19,United States Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,12.0,,0 days 00:01:36.695000,0 days 00:01:36.398000,,,2022,19,United States Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,13.0,,0 days 00:01:36.577000,0 days 00:01:36.740000,,,2022,19,United States Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,,0 days 00:01:36.656000,0 days 00:01:36.970000,,,2022,19,United States Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,15.0,,0 days 00:01:36.808000,0 days 00:01:37.147000,,,2022,19,United States Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,16.0,,0 days 00:01:36.949000,,,,2022,19,United States Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,17.0,,0 days 00:01:37.046000,,,,2022,19,United States Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,18.0,,0 days 00:01:37.068000,,,,2022,19,United States Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,19.0,,0 days 00:01:37.111000,,,,2022,19,United States Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:37.244000,,,,2022,19,United States Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:19.222000,0 days 00:01:18.566000,0 days 00:01:17.775000,,2022,20,Mexico City Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,2.0,,0 days 00:01:19.583000,0 days 00:01:18.565000,0 days 00:01:18.079000,,2022,20,Mexico City Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,3.0,,0 days 00:01:19.169000,0 days 00:01:18.552000,0 days 00:01:18.084000,,2022,20,Mexico City Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,,0 days 00:01:19.706000,0 days 00:01:18.615000,0 days 00:01:18.128000,,2022,20,Mexico City Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,5.0,,0 days 00:01:19.566000,0 days 00:01:18.560000,0 days 00:01:18.351000,,2022,20,Mexico City Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,6.0,,0 days 00:01:19.523000,0 days 00:01:18.762000,0 days 00:01:18.401000,,2022,20,Mexico City Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,7.0,,0 days 00:01:19.505000,0 days 00:01:19.109000,0 days 00:01:18.555000,,2022,20,Mexico City Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,8.0,,0 days 00:01:19.857000,0 days 00:01:19.119000,0 days 00:01:18.721000,,2022,20,Mexico City Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,9.0,,0 days 00:01:20.006000,0 days 00:01:19.272000,0 days 00:01:18.939000,,2022,20,Mexico City Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,10.0,,0 days 00:01:19.945000,0 days 00:01:19.081000,0 days 00:01:19.010000,,2022,20,Mexico City Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,11.0,,0 days 00:01:20.279000,0 days 00:01:19.325000,,,2022,20,Mexico City Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,12.0,,0 days 00:01:20.283000,0 days 00:01:19.476000,,,2022,20,Mexico City Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,13.0,,0 days 00:01:19.907000,0 days 00:01:19.589000,,,2022,20,Mexico City Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,14.0,,0 days 00:01:20.256000,0 days 00:01:19.672000,,,2022,20,Mexico City Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,15.0,,0 days 00:01:20.293000,0 days 00:01:19.833000,,,2022,20,Mexico City Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,16.0,,0 days 00:01:20.419000,,,,2022,20,Mexico City Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,17.0,,0 days 00:01:20.419000,,,,2022,20,Mexico City Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,18.0,,0 days 00:01:20.520000,,,,2022,20,Mexico City Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,19.0,,0 days 00:01:20.859000,,,,2022,20,Mexico City Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:21.167000,,,,2022,20,Mexico City Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,1.0,,0 days 00:01:13.954000,0 days 00:01:11.410000,0 days 00:01:11.674000,,2022,21,São Paulo Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,,0 days 00:01:13.625000,0 days 00:01:10.881000,0 days 00:01:11.877000,,2022,21,São Paulo Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,3.0,,0 days 00:01:14.427000,0 days 00:01:11.318000,0 days 00:01:12.059000,,2022,21,São Paulo Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,4.0,,0 days 00:01:13.106000,0 days 00:01:11.377000,0 days 00:01:12.263000,,2022,21,São Paulo Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,5.0,,0 days 00:01:14.680000,0 days 00:01:10.890000,0 days 00:01:12.357000,,2022,21,São Paulo Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,6.0,,0 days 00:01:14.663000,0 days 00:01:11.587000,0 days 00:01:12.425000,,2022,21,São Paulo Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,7.0,,0 days 00:01:13.542000,0 days 00:01:11.394000,0 days 00:01:12.504000,,2022,21,São Paulo Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,8.0,,0 days 00:01:13.403000,0 days 00:01:11.539000,0 days 00:01:12.611000,,2022,21,São Paulo Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,9.0,,0 days 00:01:13.613000,0 days 00:01:11.456000,0 days 00:01:15.601000,,2022,21,São Paulo Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,10.0,,0 days 00:01:14.486000,0 days 00:01:10.950000,,,2022,21,São Paulo Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,11.0,,0 days 00:01:14.324000,0 days 00:01:11.631000,,,2022,21,São Paulo Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,12.0,,0 days 00:01:14.371000,0 days 00:01:11.675000,,,2022,21,São Paulo Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,13.0,,0 days 00:01:13.597000,0 days 00:01:11.678000,,,2022,21,São Paulo Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,14.0,,0 days 00:01:14.931000,0 days 00:01:12.140000,,,2022,21,São Paulo Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,15.0,,0 days 00:01:14.398000,0 days 00:01:12.210000,,,2022,21,São Paulo Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,16.0,,0 days 00:01:15.095000,,,,2022,21,São Paulo Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,17.0,,0 days 00:01:15.197000,,,,2022,21,São Paulo Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,18.0,,0 days 00:01:15.486000,,,,2022,21,São Paulo Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,19.0,,0 days 00:01:16.264000,,,,2022,21,São Paulo Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,20.0,,0 days 00:01:16.361000,,,,2022,21,São Paulo Grand Prix
+1,VER,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,,0 days 00:01:24.754000,0 days 00:01:24.622000,0 days 00:01:23.824000,,2022,22,Abu Dhabi Grand Prix
+11,PER,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,,0 days 00:01:24.820000,0 days 00:01:24.419000,0 days 00:01:24.052000,,2022,22,Abu Dhabi Grand Prix
+16,LEC,leclerc,Ferrari,ferrari,Charles Leclerc,3.0,,0 days 00:01:25.211000,0 days 00:01:24.517000,0 days 00:01:24.092000,,2022,22,Abu Dhabi Grand Prix
+55,SAI,sainz,Ferrari,ferrari,Carlos Sainz,4.0,,0 days 00:01:25.090000,0 days 00:01:24.521000,0 days 00:01:24.242000,,2022,22,Abu Dhabi Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,,0 days 00:01:25.594000,0 days 00:01:24.774000,0 days 00:01:24.508000,,2022,22,Abu Dhabi Grand Prix
+63,RUS,russell,Mercedes,mercedes,George Russell,6.0,,0 days 00:01:25.545000,0 days 00:01:24.940000,0 days 00:01:24.511000,,2022,22,Abu Dhabi Grand Prix
+4,NOR,norris,McLaren,mclaren,Lando Norris,7.0,,0 days 00:01:25.387000,0 days 00:01:24.903000,0 days 00:01:24.769000,,2022,22,Abu Dhabi Grand Prix
+31,OCO,ocon,Alpine,alpine,Esteban Ocon,8.0,,0 days 00:01:25.735000,0 days 00:01:25.007000,0 days 00:01:24.830000,,2022,22,Abu Dhabi Grand Prix
+5,VET,vettel,Aston Martin,aston_martin,Sebastian Vettel,9.0,,0 days 00:01:25.523000,0 days 00:01:24.974000,0 days 00:01:24.961000,,2022,22,Abu Dhabi Grand Prix
+3,RIC,ricciardo,McLaren,mclaren,Daniel Ricciardo,10.0,,0 days 00:01:25.766000,0 days 00:01:25.068000,0 days 00:01:25.045000,,2022,22,Abu Dhabi Grand Prix
+14,ALO,alonso,Alpine,alpine,Fernando Alonso,11.0,,0 days 00:01:25.782000,0 days 00:01:25.096000,,,2022,22,Abu Dhabi Grand Prix
+22,TSU,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,12.0,,0 days 00:01:25.630000,0 days 00:01:25.219000,,,2022,22,Abu Dhabi Grand Prix
+47,MSC,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,13.0,,0 days 00:01:25.711000,0 days 00:01:25.225000,,,2022,22,Abu Dhabi Grand Prix
+18,STR,stroll,Aston Martin,aston_martin,Lance Stroll,14.0,,0 days 00:01:25.741000,0 days 00:01:25.359000,,,2022,22,Abu Dhabi Grand Prix
+24,ZHO,zhou,Alfa Romeo,alfa,Guanyu Zhou,15.0,,0 days 00:01:25.594000,0 days 00:01:25.408000,,,2022,22,Abu Dhabi Grand Prix
+20,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,16.0,,0 days 00:01:25.834000,,,,2022,22,Abu Dhabi Grand Prix
+10,GAS,gasly,AlphaTauri,alphatauri,Pierre Gasly,17.0,,0 days 00:01:25.859000,,,,2022,22,Abu Dhabi Grand Prix
+77,BOT,bottas,Alfa Romeo,alfa,Valtteri Bottas,18.0,,0 days 00:01:25.892000,,,,2022,22,Abu Dhabi Grand Prix
+23,ALB,albon,Williams,williams,Alexander Albon,19.0,,0 days 00:01:26.028000,,,,2022,22,Abu Dhabi Grand Prix
+6,LAT,latifi,Williams,williams,Nicholas Latifi,20.0,,0 days 00:01:26.054000,,,,2022,22,Abu Dhabi Grand Prix
