@@ -1,0 +1,441 @@
+DriverNumber,DriverId,TeamName,TeamId,FullName,Status,Laps,Year,RoundNumber
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,57.0,2022,1
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,57.0,2022,1
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,57.0,2022,1
+63,russell,Mercedes,mercedes,George Russell,Finished,57.0,2022,1
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,57.0,2022,1
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,57.0,2022,1
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,57.0,2022,1
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,57.0,2022,1
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,57.0,2022,1
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,57.0,2022,1
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,57.0,2022,1
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,57.0,2022,1
+23,albon,Williams,williams,Alexander Albon,Finished,57.0,2022,1
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,57.0,2022,1
+4,norris,McLaren,mclaren,Lando Norris,Finished,57.0,2022,1
+6,latifi,Williams,williams,Nicholas Latifi,Finished,57.0,2022,1
+27,hulkenberg,Aston Martin,aston_martin,Nico Hulkenberg,Finished,57.0,2022,1
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Fuel pressure,56.0,2022,1
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Fuel pressure,54.0,2022,1
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Power Unit,44.0,2022,1
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,50.0,2022,2
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,50.0,2022,2
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,50.0,2022,2
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,50.0,2022,2
+63,russell,Mercedes,mercedes,George Russell,Finished,50.0,2022,2
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,50.0,2022,2
+4,norris,McLaren,mclaren,Lando Norris,Finished,50.0,2022,2
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,50.0,2022,2
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,50.0,2022,2
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,50.0,2022,2
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,50.0,2022,2
+27,hulkenberg,Aston Martin,aston_martin,Nico Hulkenberg,Finished,50.0,2022,2
+18,stroll,Aston Martin,aston_martin,Lance Stroll,+1 Lap,49.0,2022,2
+23,albon,Williams,williams,Alexander Albon,Collision damage,47.0,2022,2
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Cooling system,36.0,2022,2
+14,alonso,Alpine,alpine,Fernando Alonso,Water pump,35.0,2022,2
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Gearbox,35.0,2022,2
+6,latifi,Williams,williams,Nicholas Latifi,Accident,14.0,2022,2
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Power Unit,0.0,2022,2
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Withdrew,0.0,2022,2
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,58.0,2022,3
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,58.0,2022,3
+63,russell,Mercedes,mercedes,George Russell,Finished,58.0,2022,3
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,58.0,2022,3
+4,norris,McLaren,mclaren,Lando Norris,Finished,58.0,2022,3
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,58.0,2022,3
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,58.0,2022,3
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,58.0,2022,3
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,58.0,2022,3
+23,albon,Williams,williams,Alexander Albon,Finished,58.0,2022,3
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,58.0,2022,3
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,58.0,2022,3
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,57.0,2022,3
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,57.0,2022,3
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,57.0,2022,3
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,57.0,2022,3
+14,alonso,Alpine,alpine,Fernando Alonso,+1 Lap,57.0,2022,3
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Fuel leak,38.0,2022,3
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Accident,22.0,2022,3
+55,sainz,Ferrari,ferrari,Carlos Sainz,Spun off,1.0,2022,3
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,63.0,2022,4
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,63.0,2022,4
+4,norris,McLaren,mclaren,Lando Norris,Finished,63.0,2022,4
+63,russell,Mercedes,mercedes,George Russell,Finished,63.0,2022,4
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,63.0,2022,4
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,63.0,2022,4
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,63.0,2022,4
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,63.0,2022,4
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,63.0,2022,4
+18,stroll,Aston Martin,aston_martin,Lance Stroll,+1 Lap,62.0,2022,4
+23,albon,Williams,williams,Alexander Albon,+1 Lap,62.0,2022,4
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,+1 Lap,62.0,2022,4
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,+1 Lap,62.0,2022,4
+31,ocon,Alpine,alpine,Esteban Ocon,+1 Lap,62.0,2022,4
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+1 Lap,62.0,2022,4
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,62.0,2022,4
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,62.0,2022,4
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,+1 Lap,62.0,2022,4
+14,alonso,Alpine,alpine,Fernando Alonso,Collision damage,6.0,2022,4
+55,sainz,Ferrari,ferrari,Carlos Sainz,Collision,0.0,2022,4
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,57.0,2022,5
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,57.0,2022,5
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,57.0,2022,5
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,57.0,2022,5
+63,russell,Mercedes,mercedes,George Russell,Finished,57.0,2022,5
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,57.0,2022,5
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,57.0,2022,5
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,57.0,2022,5
+23,albon,Williams,williams,Alexander Albon,Finished,57.0,2022,5
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,57.0,2022,5
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,57.0,2022,5
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,57.0,2022,5
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,57.0,2022,5
+6,latifi,Williams,williams,Nicholas Latifi,Finished,57.0,2022,5
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,57.0,2022,5
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Front wing,56.0,2022,5
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Collision,54.0,2022,5
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Suspension,45.0,2022,5
+4,norris,McLaren,mclaren,Lando Norris,Collision,39.0,2022,5
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Water leak,6.0,2022,5
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,66.0,2022,6
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,66.0,2022,6
+63,russell,Mercedes,mercedes,George Russell,Finished,66.0,2022,6
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,66.0,2022,6
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,66.0,2022,6
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,66.0,2022,6
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,66.0,2022,6
+4,norris,McLaren,mclaren,Lando Norris,Finished,66.0,2022,6
+14,alonso,Alpine,alpine,Fernando Alonso,+1 Lap,65.0,2022,6
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,65.0,2022,6
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,+1 Lap,65.0,2022,6
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,+1 Lap,65.0,2022,6
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,+1 Lap,65.0,2022,6
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,65.0,2022,6
+18,stroll,Aston Martin,aston_martin,Lance Stroll,+1 Lap,65.0,2022,6
+6,latifi,Williams,williams,Nicholas Latifi,+2 Laps,64.0,2022,6
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+2 Laps,64.0,2022,6
+23,albon,Williams,williams,Alexander Albon,+2 Laps,64.0,2022,6
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Power loss,28.0,2022,6
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Turbo,27.0,2022,6
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,64.0,2022,7
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,64.0,2022,7
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,64.0,2022,7
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,64.0,2022,7
+63,russell,Mercedes,mercedes,George Russell,Finished,64.0,2022,7
+4,norris,McLaren,mclaren,Lando Norris,Finished,64.0,2022,7
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,64.0,2022,7
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,64.0,2022,7
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,64.0,2022,7
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,64.0,2022,7
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,64.0,2022,7
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,64.0,2022,7
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,64.0,2022,7
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,64.0,2022,7
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,63.0,2022,7
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+1 Lap,63.0,2022,7
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,63.0,2022,7
+23,albon,Williams,williams,Alexander Albon,Mechanical,48.0,2022,7
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Accident,24.0,2022,7
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Water pressure,19.0,2022,7
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,51.0,2022,8
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,51.0,2022,8
+63,russell,Mercedes,mercedes,George Russell,Finished,51.0,2022,8
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,51.0,2022,8
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,51.0,2022,8
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,51.0,2022,8
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,51.0,2022,8
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,51.0,2022,8
+4,norris,McLaren,mclaren,Lando Norris,Finished,51.0,2022,8
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,51.0,2022,8
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,+1 Lap,50.0,2022,8
+23,albon,Williams,williams,Alexander Albon,+1 Lap,50.0,2022,8
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,50.0,2022,8
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,50.0,2022,8
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,50.0,2022,8
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Vibrations,46.0,2022,8
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Power Unit,31.0,2022,8
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Hydraulics,23.0,2022,8
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Power Unit,21.0,2022,8
+55,sainz,Ferrari,ferrari,Carlos Sainz,Hydraulics,8.0,2022,8
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,70.0,2022,9
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,70.0,2022,9
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,70.0,2022,9
+63,russell,Mercedes,mercedes,George Russell,Finished,70.0,2022,9
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,70.0,2022,9
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,70.0,2022,9
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,70.0,2022,9
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,70.0,2022,9
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,70.0,2022,9
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,70.0,2022,9
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,70.0,2022,9
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,70.0,2022,9
+23,albon,Williams,williams,Alexander Albon,Finished,70.0,2022,9
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,70.0,2022,9
+4,norris,McLaren,mclaren,Lando Norris,Finished,70.0,2022,9
+6,latifi,Williams,williams,Nicholas Latifi,Finished,70.0,2022,9
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,70.0,2022,9
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Accident,47.0,2022,9
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Engine,18.0,2022,9
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Gearbox,7.0,2022,9
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,52.0,2022,10
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,52.0,2022,10
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,52.0,2022,10
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,52.0,2022,10
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,52.0,2022,10
+4,norris,McLaren,mclaren,Lando Norris,Finished,52.0,2022,10
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,52.0,2022,10
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,52.0,2022,10
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,52.0,2022,10
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,52.0,2022,10
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,52.0,2022,10
+6,latifi,Williams,williams,Nicholas Latifi,Finished,52.0,2022,10
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,52.0,2022,10
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,52.0,2022,10
+31,ocon,Alpine,alpine,Esteban Ocon,Fuel pump,37.0,2022,10
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Collision damage,26.0,2022,10
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Gearbox,20.0,2022,10
+63,russell,Mercedes,mercedes,George Russell,Collision,0.0,2022,10
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Collision,0.0,2022,10
+23,albon,Williams,williams,Alexander Albon,Collision,0.0,2022,10
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,71.0,2022,11
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,71.0,2022,11
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,71.0,2022,11
+63,russell,Mercedes,mercedes,George Russell,Finished,71.0,2022,11
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,71.0,2022,11
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,70.0,2022,11
+4,norris,McLaren,mclaren,Lando Norris,+1 Lap,70.0,2022,11
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,70.0,2022,11
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,+1 Lap,70.0,2022,11
+14,alonso,Alpine,alpine,Fernando Alonso,+1 Lap,70.0,2022,11
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,+1 Lap,70.0,2022,11
+23,albon,Williams,williams,Alexander Albon,+1 Lap,70.0,2022,11
+18,stroll,Aston Martin,aston_martin,Lance Stroll,+1 Lap,70.0,2022,11
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+1 Lap,70.0,2022,11
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,+1 Lap,70.0,2022,11
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,70.0,2022,11
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,+1 Lap,70.0,2022,11
+55,sainz,Ferrari,ferrari,Carlos Sainz,Power Unit,56.0,2022,11
+6,latifi,Williams,williams,Nicholas Latifi,Undertray,48.0,2022,11
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Collision damage,24.0,2022,11
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,53.0,2022,12
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,53.0,2022,12
+63,russell,Mercedes,mercedes,George Russell,Finished,53.0,2022,12
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,53.0,2022,12
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,53.0,2022,12
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,53.0,2022,12
+4,norris,McLaren,mclaren,Lando Norris,Finished,53.0,2022,12
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,53.0,2022,12
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,53.0,2022,12
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,53.0,2022,12
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,53.0,2022,12
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,53.0,2022,12
+23,albon,Williams,williams,Alexander Albon,Finished,53.0,2022,12
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,53.0,2022,12
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,53.0,2022,12
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+6 Laps,47.0,2022,12
+6,latifi,Williams,williams,Nicholas Latifi,Collision damage,40.0,2022,12
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Collision damage,37.0,2022,12
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Accident,17.0,2022,12
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Undertray,17.0,2022,12
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,70.0,2022,13
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,70.0,2022,13
+63,russell,Mercedes,mercedes,George Russell,Finished,70.0,2022,13
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,70.0,2022,13
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,70.0,2022,13
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,70.0,2022,13
+4,norris,McLaren,mclaren,Lando Norris,Finished,70.0,2022,13
+14,alonso,Alpine,alpine,Fernando Alonso,+1 Lap,69.0,2022,13
+31,ocon,Alpine,alpine,Esteban Ocon,+1 Lap,69.0,2022,13
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,+1 Lap,69.0,2022,13
+18,stroll,Aston Martin,aston_martin,Lance Stroll,+1 Lap,69.0,2022,13
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,+1 Lap,69.0,2022,13
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+1 Lap,69.0,2022,13
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,69.0,2022,13
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,+1 Lap,69.0,2022,13
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,69.0,2022,13
+23,albon,Williams,williams,Alexander Albon,+1 Lap,69.0,2022,13
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,69.0,2022,13
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+2 Laps,68.0,2022,13
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Power Unit,65.0,2022,13
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,44.0,2022,14
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,44.0,2022,14
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,44.0,2022,14
+63,russell,Mercedes,mercedes,George Russell,Finished,44.0,2022,14
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,44.0,2022,14
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,44.0,2022,14
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,44.0,2022,14
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,44.0,2022,14
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,44.0,2022,14
+23,albon,Williams,williams,Alexander Albon,Finished,44.0,2022,14
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,44.0,2022,14
+4,norris,McLaren,mclaren,Lando Norris,Finished,44.0,2022,14
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,44.0,2022,14
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,44.0,2022,14
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,44.0,2022,14
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,43.0,2022,14
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,43.0,2022,14
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,43.0,2022,14
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Accident,1.0,2022,14
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Collision damage,0.0,2022,14
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,72.0,2022,15
+63,russell,Mercedes,mercedes,George Russell,Finished,72.0,2022,15
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,72.0,2022,15
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,72.0,2022,15
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,72.0,2022,15
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,72.0,2022,15
+4,norris,McLaren,mclaren,Lando Norris,Finished,72.0,2022,15
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,72.0,2022,15
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,72.0,2022,15
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,72.0,2022,15
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,72.0,2022,15
+23,albon,Williams,williams,Alexander Albon,Finished,72.0,2022,15
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,72.0,2022,15
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,72.0,2022,15
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,72.0,2022,15
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,72.0,2022,15
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,72.0,2022,15
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,71.0,2022,15
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Engine,53.0,2022,15
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Differential,43.0,2022,15
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,53.0,2022,16
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,53.0,2022,16
+63,russell,Mercedes,mercedes,George Russell,Finished,53.0,2022,16
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,53.0,2022,16
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,53.0,2022,16
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,53.0,2022,16
+4,norris,McLaren,mclaren,Lando Norris,Finished,53.0,2022,16
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,53.0,2022,16
+45,de_vries,Williams,williams,Nyck De Vries,Finished,53.0,2022,16
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,53.0,2022,16
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,53.0,2022,16
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,53.0,2022,16
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,+1 Lap,52.0,2022,16
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,52.0,2022,16
+6,latifi,Williams,williams,Nicholas Latifi,+1 Lap,52.0,2022,16
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,52.0,2022,16
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Oil leak,45.0,2022,16
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Engine,39.0,2022,16
+14,alonso,Alpine,alpine,Fernando Alonso,Water pressure,31.0,2022,16
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Engine,10.0,2022,16
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,59.0,2022,17
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,59.0,2022,17
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,59.0,2022,17
+4,norris,McLaren,mclaren,Lando Norris,Finished,59.0,2022,17
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,59.0,2022,17
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,59.0,2022,17
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,59.0,2022,17
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,59.0,2022,17
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,59.0,2022,17
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,59.0,2022,17
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,59.0,2022,17
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,59.0,2022,17
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,58.0,2022,17
+63,russell,Mercedes,mercedes,George Russell,+2 Laps,57.0,2022,17
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Accident,34.0,2022,17
+31,ocon,Alpine,alpine,Esteban Ocon,Engine,26.0,2022,17
+23,albon,Williams,williams,Alexander Albon,Collision damage,25.0,2022,17
+14,alonso,Alpine,alpine,Fernando Alonso,Engine,20.0,2022,17
+6,latifi,Williams,williams,Nicholas Latifi,Collision damage,7.0,2022,17
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Collision,6.0,2022,17
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,28.0,2022,18
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,28.0,2022,18
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,28.0,2022,18
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,28.0,2022,18
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,28.0,2022,18
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,28.0,2022,18
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,28.0,2022,18
+63,russell,Mercedes,mercedes,George Russell,Finished,28.0,2022,18
+6,latifi,Williams,williams,Nicholas Latifi,Finished,28.0,2022,18
+4,norris,McLaren,mclaren,Lando Norris,Finished,28.0,2022,18
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,28.0,2022,18
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,28.0,2022,18
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,28.0,2022,18
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,28.0,2022,18
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,28.0,2022,18
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,28.0,2022,18
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,28.0,2022,18
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,28.0,2022,18
+55,sainz,Ferrari,ferrari,Carlos Sainz,Accident,0.0,2022,18
+23,albon,Williams,williams,Alexander Albon,Hydraulics,0.0,2022,18
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,56.0,2022,19
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,56.0,2022,19
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,56.0,2022,19
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,56.0,2022,19
+63,russell,Mercedes,mercedes,George Russell,Finished,56.0,2022,19
+4,norris,McLaren,mclaren,Lando Norris,Finished,56.0,2022,19
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,56.0,2022,19
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,56.0,2022,19
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,56.0,2022,19
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,56.0,2022,19
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,56.0,2022,19
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,56.0,2022,19
+23,albon,Williams,williams,Alexander Albon,Finished,56.0,2022,19
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,56.0,2022,19
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,56.0,2022,19
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,56.0,2022,19
+6,latifi,Williams,williams,Nicholas Latifi,Finished,56.0,2022,19
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Collision,21.0,2022,19
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Spun off,16.0,2022,19
+55,sainz,Ferrari,ferrari,Carlos Sainz,Collision damage,1.0,2022,19
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,71.0,2022,20
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,71.0,2022,20
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,71.0,2022,20
+63,russell,Mercedes,mercedes,George Russell,Finished,71.0,2022,20
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,71.0,2022,20
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,71.0,2022,20
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,+1 Lap,70.0,2022,20
+31,ocon,Alpine,alpine,Esteban Ocon,+1 Lap,70.0,2022,20
+4,norris,McLaren,mclaren,Lando Norris,+1 Lap,70.0,2022,20
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,+1 Lap,70.0,2022,20
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,+1 Lap,70.0,2022,20
+23,albon,Williams,williams,Alexander Albon,+1 Lap,70.0,2022,20
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+1 Lap,70.0,2022,20
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,+1 Lap,70.0,2022,20
+18,stroll,Aston Martin,aston_martin,Lance Stroll,+1 Lap,70.0,2022,20
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,70.0,2022,20
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,70.0,2022,20
+6,latifi,Williams,williams,Nicholas Latifi,+2 Laps,69.0,2022,20
+14,alonso,Alpine,alpine,Fernando Alonso,Engine,63.0,2022,20
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Collision damage,50.0,2022,20
+63,russell,Mercedes,mercedes,George Russell,Finished,71.0,2022,21
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,71.0,2022,21
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,71.0,2022,21
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,71.0,2022,21
+14,alonso,Alpine,alpine,Fernando Alonso,Finished,71.0,2022,21
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,71.0,2022,21
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,71.0,2022,21
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,71.0,2022,21
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,71.0,2022,21
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,71.0,2022,21
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,71.0,2022,21
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,71.0,2022,21
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,Finished,71.0,2022,21
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,Finished,71.0,2022,21
+23,albon,Williams,williams,Alexander Albon,Finished,71.0,2022,21
+6,latifi,Williams,williams,Nicholas Latifi,Finished,71.0,2022,21
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,+1 Lap,70.0,2022,21
+4,norris,McLaren,mclaren,Lando Norris,Gearbox,50.0,2022,21
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Collision,0.0,2022,21
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Collision,0.0,2022,21
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,58.0,2022,22
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,58.0,2022,22
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,58.0,2022,22
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,58.0,2022,22
+63,russell,Mercedes,mercedes,George Russell,Finished,58.0,2022,22
+4,norris,McLaren,mclaren,Lando Norris,Finished,58.0,2022,22
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,58.0,2022,22
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,58.0,2022,22
+3,ricciardo,McLaren,mclaren,Daniel Ricciardo,Finished,58.0,2022,22
+5,vettel,Aston Martin,aston_martin,Sebastian Vettel,Finished,58.0,2022,22
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,58.0,2022,22
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,+1 Lap,57.0,2022,22
+23,albon,Williams,williams,Alexander Albon,+1 Lap,57.0,2022,22
+10,gasly,AlphaTauri,alphatauri,Pierre Gasly,+1 Lap,57.0,2022,22
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,+1 Lap,57.0,2022,22
+47,mick_schumacher,Haas F1 Team,haas,Mick Schumacher,+1 Lap,57.0,2022,22
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,+1 Lap,57.0,2022,22
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Hydraulics,55.0,2022,22
+6,latifi,Williams,williams,Nicholas Latifi,Collision damage,55.0,2022,22
+14,alonso,Alpine,alpine,Fernando Alonso,Water leak,27.0,2022,22
