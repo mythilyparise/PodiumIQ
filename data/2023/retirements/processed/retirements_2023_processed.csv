@@ -1,0 +1,441 @@
+DriverNumber,DriverId,TeamName,TeamId,FullName,Status,Laps,Year,RoundNumber
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,57.0,2023,1
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,57.0,2023,1
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,57.0,2023,1
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,57.0,2023,1
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,57.0,2023,1
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,57.0,2023,1
+63,russell,Mercedes,mercedes,George Russell,Finished,57.0,2023,1
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,57.0,2023,1
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,57.0,2023,1
+23,albon,Williams,williams,Alexander Albon,Finished,57.0,2023,1
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,57.0,2023,1
+2,sargeant,Williams,williams,Logan Sargeant,Lapped,56.0,2023,1
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,56.0,2023,1
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Lapped,56.0,2023,1
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,56.0,2023,1
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,56.0,2023,1
+4,norris,McLaren,mclaren,Lando Norris,Lapped,55.0,2023,1
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,41.0,2023,1
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Retired,39.0,2023,1
+81,piastri,McLaren,mclaren,Oscar Piastri,Retired,13.0,2023,1
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,50.0,2023,2
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,50.0,2023,2
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,50.0,2023,2
+63,russell,Mercedes,mercedes,George Russell,Finished,50.0,2023,2
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,50.0,2023,2
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,50.0,2023,2
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,50.0,2023,2
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,50.0,2023,2
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,50.0,2023,2
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,50.0,2023,2
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,50.0,2023,2
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,50.0,2023,2
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,50.0,2023,2
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Finished,50.0,2023,2
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,50.0,2023,2
+2,sargeant,Williams,williams,Logan Sargeant,Finished,50.0,2023,2
+4,norris,McLaren,mclaren,Lando Norris,Finished,50.0,2023,2
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,49.0,2023,2
+23,albon,Williams,williams,Alexander Albon,Retired,27.0,2023,2
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Retired,16.0,2023,2
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,58.0,2023,3
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,58.0,2023,3
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,58.0,2023,3
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,58.0,2023,3
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,58.0,2023,3
+4,norris,McLaren,mclaren,Lando Norris,Finished,58.0,2023,3
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,58.0,2023,3
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,58.0,2023,3
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,58.0,2023,3
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,58.0,2023,3
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,58.0,2023,3
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,58.0,2023,3
+10,gasly,Alpine,alpine,Pierre Gasly,Retired,56.0,2023,3
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,56.0,2023,3
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Retired,56.0,2023,3
+2,sargeant,Williams,williams,Logan Sargeant,Retired,56.0,2023,3
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Retired,52.0,2023,3
+63,russell,Mercedes,mercedes,George Russell,Retired,17.0,2023,3
+23,albon,Williams,williams,Alexander Albon,Retired,6.0,2023,3
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Retired,0.0,2023,3
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,51.0,2023,4
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,51.0,2023,4
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,51.0,2023,4
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,51.0,2023,4
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,51.0,2023,4
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,51.0,2023,4
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,51.0,2023,4
+63,russell,Mercedes,mercedes,George Russell,Finished,51.0,2023,4
+4,norris,McLaren,mclaren,Lando Norris,Finished,51.0,2023,4
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,51.0,2023,4
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,51.0,2023,4
+23,albon,Williams,williams,Alexander Albon,Finished,51.0,2023,4
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,51.0,2023,4
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,51.0,2023,4
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,51.0,2023,4
+2,sargeant,Williams,williams,Logan Sargeant,Finished,51.0,2023,4
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,50.0,2023,4
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,50.0,2023,4
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Retired,36.0,2023,4
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Retired,9.0,2023,4
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,57.0,2023,5
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,57.0,2023,5
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,57.0,2023,5
+63,russell,Mercedes,mercedes,George Russell,Finished,57.0,2023,5
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,57.0,2023,5
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,57.0,2023,5
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,57.0,2023,5
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,57.0,2023,5
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,57.0,2023,5
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,57.0,2023,5
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,57.0,2023,5
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,57.0,2023,5
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,57.0,2023,5
+23,albon,Williams,williams,Alexander Albon,Finished,57.0,2023,5
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,57.0,2023,5
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,57.0,2023,5
+4,norris,McLaren,mclaren,Lando Norris,Finished,57.0,2023,5
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Finished,57.0,2023,5
+81,piastri,McLaren,mclaren,Oscar Piastri,Lapped,56.0,2023,5
+2,sargeant,Williams,williams,Logan Sargeant,Lapped,56.0,2023,5
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,78.0,2023,6
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,78.0,2023,6
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,78.0,2023,6
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,78.0,2023,6
+63,russell,Mercedes,mercedes,George Russell,Finished,78.0,2023,6
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,78.0,2023,6
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,78.0,2023,6
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,78.0,2023,6
+4,norris,McLaren,mclaren,Lando Norris,Lapped,77.0,2023,6
+81,piastri,McLaren,mclaren,Oscar Piastri,Lapped,77.0,2023,6
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,77.0,2023,6
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Lapped,77.0,2023,6
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,77.0,2023,6
+23,albon,Williams,williams,Alexander Albon,Lapped,77.0,2023,6
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Lapped,76.0,2023,6
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Lapped,76.0,2023,6
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,76.0,2023,6
+2,sargeant,Williams,williams,Logan Sargeant,Lapped,76.0,2023,6
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Retired,70.0,2023,6
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Retired,53.0,2023,6
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,66.0,2023,7
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,66.0,2023,7
+63,russell,Mercedes,mercedes,George Russell,Finished,66.0,2023,7
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,66.0,2023,7
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,66.0,2023,7
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,66.0,2023,7
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,66.0,2023,7
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,66.0,2023,7
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,66.0,2023,7
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,66.0,2023,7
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,66.0,2023,7
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,66.0,2023,7
+81,piastri,McLaren,mclaren,Oscar Piastri,Lapped,65.0,2023,7
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Lapped,65.0,2023,7
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,65.0,2023,7
+23,albon,Williams,williams,Alexander Albon,Lapped,65.0,2023,7
+4,norris,McLaren,mclaren,Lando Norris,Lapped,65.0,2023,7
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,65.0,2023,7
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,65.0,2023,7
+2,sargeant,Williams,williams,Logan Sargeant,Lapped,65.0,2023,7
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,70.0,2023,8
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,70.0,2023,8
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,70.0,2023,8
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,70.0,2023,8
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,70.0,2023,8
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,70.0,2023,8
+23,albon,Williams,williams,Alexander Albon,Finished,70.0,2023,8
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,70.0,2023,8
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,70.0,2023,8
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,70.0,2023,8
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,70.0,2023,8
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,70.0,2023,8
+4,norris,McLaren,mclaren,Lando Norris,Finished,70.0,2023,8
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,70.0,2023,8
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,69.0,2023,8
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,69.0,2023,8
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,69.0,2023,8
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Lapped,69.0,2023,8
+63,russell,Mercedes,mercedes,George Russell,Retired,53.0,2023,8
+2,sargeant,Williams,williams,Logan Sargeant,Retired,6.0,2023,8
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,71.0,2023,9
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,71.0,2023,9
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,71.0,2023,9
+4,norris,McLaren,mclaren,Lando Norris,Finished,71.0,2023,9
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,71.0,2023,9
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,71.0,2023,9
+63,russell,Mercedes,mercedes,George Russell,Finished,71.0,2023,9
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,71.0,2023,9
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,71.0,2023,9
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,71.0,2023,9
+23,albon,Williams,williams,Alexander Albon,Finished,71.0,2023,9
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,70.0,2023,9
+2,sargeant,Williams,williams,Logan Sargeant,Lapped,70.0,2023,9
+31,ocon,Alpine,alpine,Esteban Ocon,Lapped,70.0,2023,9
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,70.0,2023,9
+81,piastri,McLaren,mclaren,Oscar Piastri,Lapped,70.0,2023,9
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Lapped,70.0,2023,9
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,70.0,2023,9
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Lapped,70.0,2023,9
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Retired,12.0,2023,9
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,52.0,2023,10
+4,norris,McLaren,mclaren,Lando Norris,Finished,52.0,2023,10
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,52.0,2023,10
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,52.0,2023,10
+63,russell,Mercedes,mercedes,George Russell,Finished,52.0,2023,10
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,52.0,2023,10
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,52.0,2023,10
+23,albon,Williams,williams,Alexander Albon,Finished,52.0,2023,10
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,52.0,2023,10
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,52.0,2023,10
+2,sargeant,Williams,williams,Logan Sargeant,Finished,52.0,2023,10
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,52.0,2023,10
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,52.0,2023,10
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,52.0,2023,10
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,52.0,2023,10
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,52.0,2023,10
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,Finished,52.0,2023,10
+10,gasly,Alpine,alpine,Pierre Gasly,Retired,46.0,2023,10
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Retired,31.0,2023,10
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,9.0,2023,10
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,70.0,2023,11
+4,norris,McLaren,mclaren,Lando Norris,Finished,70.0,2023,11
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,70.0,2023,11
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,70.0,2023,11
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,70.0,2023,11
+63,russell,Mercedes,mercedes,George Russell,Finished,70.0,2023,11
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,70.0,2023,11
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,70.0,2023,11
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,70.0,2023,11
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Lapped,69.0,2023,11
+23,albon,Williams,williams,Alexander Albon,Lapped,69.0,2023,11
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,69.0,2023,11
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Lapped,69.0,2023,11
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,69.0,2023,11
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Lapped,69.0,2023,11
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,69.0,2023,11
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,69.0,2023,11
+2,sargeant,Williams,williams,Logan Sargeant,Retired,67.0,2023,11
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,2.0,2023,11
+10,gasly,Alpine,alpine,Pierre Gasly,Retired,1.0,2023,11
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,44.0,2023,12
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,44.0,2023,12
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,44.0,2023,12
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,44.0,2023,12
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,44.0,2023,12
+63,russell,Mercedes,mercedes,George Russell,Finished,44.0,2023,12
+4,norris,McLaren,mclaren,Lando Norris,Finished,44.0,2023,12
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,44.0,2023,12
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,44.0,2023,12
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,44.0,2023,12
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,44.0,2023,12
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,44.0,2023,12
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,44.0,2023,12
+23,albon,Williams,williams,Alexander Albon,Finished,44.0,2023,12
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,44.0,2023,12
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Finished,44.0,2023,12
+2,sargeant,Williams,williams,Logan Sargeant,Finished,44.0,2023,12
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,44.0,2023,12
+55,sainz,Ferrari,ferrari,Carlos Sainz,Retired,23.0,2023,12
+81,piastri,McLaren,mclaren,Oscar Piastri,Retired,0.0,2023,12
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,72.0,2023,13
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,72.0,2023,13
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,72.0,2023,13
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,72.0,2023,13
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,72.0,2023,13
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,72.0,2023,13
+4,norris,McLaren,mclaren,Lando Norris,Finished,72.0,2023,13
+23,albon,Williams,williams,Alexander Albon,Finished,72.0,2023,13
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,72.0,2023,13
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,72.0,2023,13
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,72.0,2023,13
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,72.0,2023,13
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,Finished,72.0,2023,13
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,72.0,2023,13
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,72.0,2023,13
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,72.0,2023,13
+63,russell,Mercedes,mercedes,George Russell,Finished,72.0,2023,13
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Accident,62.0,2023,13
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Undertray,41.0,2023,13
+2,sargeant,Williams,williams,Logan Sargeant,Accident,14.0,2023,13
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,51.0,2023,14
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,51.0,2023,14
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,51.0,2023,14
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,51.0,2023,14
+63,russell,Mercedes,mercedes,George Russell,Finished,51.0,2023,14
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,51.0,2023,14
+23,albon,Williams,williams,Alexander Albon,Finished,51.0,2023,14
+4,norris,McLaren,mclaren,Lando Norris,Finished,51.0,2023,14
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,51.0,2023,14
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,51.0,2023,14
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,Finished,51.0,2023,14
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,51.0,2023,14
+2,sargeant,Williams,williams,Logan Sargeant,Finished,51.0,2023,14
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,51.0,2023,14
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,51.0,2023,14
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,51.0,2023,14
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,50.0,2023,14
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,50.0,2023,14
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,39.0,2023,14
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Did not start,0.0,2023,14
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,62.0,2023,15
+4,norris,McLaren,mclaren,Lando Norris,Finished,62.0,2023,15
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,62.0,2023,15
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,62.0,2023,15
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,62.0,2023,15
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,62.0,2023,15
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,62.0,2023,15
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,62.0,2023,15
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,Finished,62.0,2023,15
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,62.0,2023,15
+23,albon,Williams,williams,Alexander Albon,Finished,62.0,2023,15
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,62.0,2023,15
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,62.0,2023,15
+2,sargeant,Williams,williams,Logan Sargeant,Finished,62.0,2023,15
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,62.0,2023,15
+63,russell,Mercedes,mercedes,George Russell,Retired,61.0,2023,15
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Retired,51.0,2023,15
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,42.0,2023,15
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Retired,0.0,2023,15
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Withdrew,0.0,2023,15
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,53.0,2023,16
+4,norris,McLaren,mclaren,Lando Norris,Finished,53.0,2023,16
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,53.0,2023,16
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,53.0,2023,16
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,53.0,2023,16
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,53.0,2023,16
+63,russell,Mercedes,mercedes,George Russell,Finished,53.0,2023,16
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,53.0,2023,16
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,53.0,2023,16
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,53.0,2023,16
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,Lapped,52.0,2023,16
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Lapped,52.0,2023,16
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,52.0,2023,16
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,52.0,2023,16
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,52.0,2023,16
+23,albon,Williams,williams,Alexander Albon,Retired,26.0,2023,16
+2,sargeant,Williams,williams,Logan Sargeant,Retired,22.0,2023,16
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Retired,20.0,2023,16
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Retired,15.0,2023,16
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Retired,7.0,2023,16
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,57.0,2023,17
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,57.0,2023,17
+4,norris,McLaren,mclaren,Lando Norris,Finished,57.0,2023,17
+63,russell,Mercedes,mercedes,George Russell,Finished,57.0,2023,17
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,57.0,2023,17
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,57.0,2023,17
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,57.0,2023,17
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,57.0,2023,17
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,57.0,2023,17
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,57.0,2023,17
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,57.0,2023,17
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,57.0,2023,17
+23,albon,Williams,williams,Alexander Albon,Finished,57.0,2023,17
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,56.0,2023,17
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Lapped,56.0,2023,17
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,56.0,2023,17
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,Lapped,56.0,2023,17
+2,sargeant,Williams,williams,Logan Sargeant,Retired,40.0,2023,17
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Retired,0.0,2023,17
+55,sainz,Ferrari,ferrari,Carlos Sainz,Did not start,0.0,2023,17
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,56.0,2023,18
+4,norris,McLaren,mclaren,Lando Norris,Finished,56.0,2023,18
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,56.0,2023,18
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,56.0,2023,18
+63,russell,Mercedes,mercedes,George Russell,Finished,56.0,2023,18
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,56.0,2023,18
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,56.0,2023,18
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,56.0,2023,18
+23,albon,Williams,williams,Alexander Albon,Finished,56.0,2023,18
+2,sargeant,Williams,williams,Logan Sargeant,Finished,56.0,2023,18
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,56.0,2023,18
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,56.0,2023,18
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Lapped,55.0,2023,18
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,55.0,2023,18
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Lapped,55.0,2023,18
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Retired,49.0,2023,18
+81,piastri,McLaren,mclaren,Oscar Piastri,Retired,10.0,2023,18
+31,ocon,Alpine,alpine,Esteban Ocon,Retired,6.0,2023,18
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Disqualified,56.0,2023,18
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Disqualified,56.0,2023,18
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,71.0,2023,19
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,71.0,2023,19
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,71.0,2023,19
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,71.0,2023,19
+4,norris,McLaren,mclaren,Lando Norris,Finished,71.0,2023,19
+63,russell,Mercedes,mercedes,George Russell,Finished,71.0,2023,19
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Finished,71.0,2023,19
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,71.0,2023,19
+23,albon,Williams,williams,Alexander Albon,Finished,71.0,2023,19
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,71.0,2023,19
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,71.0,2023,19
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,71.0,2023,19
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,71.0,2023,19
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,71.0,2023,19
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,71.0,2023,19
+2,sargeant,Williams,williams,Logan Sargeant,Retired,70.0,2023,19
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Collision damage,66.0,2023,19
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Withdrew,47.0,2023,19
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Accident,31.0,2023,19
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Collision damage,1.0,2023,19
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,71.0,2023,20
+4,norris,McLaren,mclaren,Lando Norris,Finished,71.0,2023,20
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,71.0,2023,20
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,71.0,2023,20
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,71.0,2023,20
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,71.0,2023,20
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,71.0,2023,20
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,71.0,2023,20
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,71.0,2023,20
+31,ocon,Alpine,alpine,Esteban Ocon,Lapped,70.0,2023,20
+2,sargeant,Williams,williams,Logan Sargeant,Lapped,70.0,2023,20
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Lapped,70.0,2023,20
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Lapped,70.0,2023,20
+81,piastri,McLaren,mclaren,Oscar Piastri,Lapped,69.0,2023,20
+63,russell,Mercedes,mercedes,George Russell,Retired,57.0,2023,20
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Retired,39.0,2023,20
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Retired,22.0,2023,20
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Retired,0.0,2023,20
+23,albon,Williams,williams,Alexander Albon,Retired,0.0,2023,20
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Did not start,0.0,2023,20
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,50.0,2023,21
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,50.0,2023,21
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,50.0,2023,21
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,50.0,2023,21
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,50.0,2023,21
+55,sainz,Ferrari,ferrari,Carlos Sainz,Finished,50.0,2023,21
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,50.0,2023,21
+63,russell,Mercedes,mercedes,George Russell,Finished,50.0,2023,21
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,50.0,2023,21
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,50.0,2023,21
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,50.0,2023,21
+23,albon,Williams,williams,Alexander Albon,Finished,50.0,2023,21
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Finished,50.0,2023,21
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Finished,50.0,2023,21
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,50.0,2023,21
+2,sargeant,Williams,williams,Logan Sargeant,Finished,50.0,2023,21
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Finished,50.0,2023,21
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Retired,46.0,2023,21
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Retired,45.0,2023,21
+4,norris,McLaren,mclaren,Lando Norris,Retired,2.0,2023,21
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Finished,58.0,2023,22
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Finished,58.0,2023,22
+63,russell,Mercedes,mercedes,George Russell,Finished,58.0,2023,22
+11,perez,Red Bull Racing,red_bull,Sergio Perez,Finished,58.0,2023,22
+4,norris,McLaren,mclaren,Lando Norris,Finished,58.0,2023,22
+81,piastri,McLaren,mclaren,Oscar Piastri,Finished,58.0,2023,22
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Finished,58.0,2023,22
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,Finished,58.0,2023,22
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,Finished,58.0,2023,22
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Finished,58.0,2023,22
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,Finished,58.0,2023,22
+31,ocon,Alpine,alpine,Esteban Ocon,Finished,58.0,2023,22
+10,gasly,Alpine,alpine,Pierre Gasly,Finished,58.0,2023,22
+23,albon,Williams,williams,Alexander Albon,Finished,58.0,2023,22
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,Finished,58.0,2023,22
+2,sargeant,Williams,williams,Logan Sargeant,Finished,58.0,2023,22
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,Finished,58.0,2023,22
+55,sainz,Ferrari,ferrari,Carlos Sainz,Retired,57.0,2023,22
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,Lapped,57.0,2023,22
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,Lapped,57.0,2023,22
