@@ -1,0 +1,441 @@
+DriverNumber,DriverId,TeamName,TeamId,FullName,Position,ClassifiedPosition,GridPosition,Time,Status,Points,Laps,Year,RoundNumber
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:33:56.736000,Finished,25.0,57.0,2023,1
+11,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,2,2.0,0 days 00:00:11.987000,Finished,18.0,57.0,2023,1
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,3.0,3,5.0,0 days 00:00:38.637000,Finished,15.0,57.0,2023,1
+55,sainz,Ferrari,ferrari,Carlos Sainz,4.0,4,4.0,0 days 00:00:48.052000,Finished,12.0,57.0,2023,1
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,5,7.0,0 days 00:00:50.977000,Finished,10.0,57.0,2023,1
+18,stroll,Aston Martin,aston_martin,Lance Stroll,6.0,6,8.0,0 days 00:00:54.502000,Finished,8.0,57.0,2023,1
+63,russell,Mercedes,mercedes,George Russell,7.0,7,6.0,0 days 00:00:55.873000,Finished,6.0,57.0,2023,1
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,8.0,8,12.0,0 days 00:01:12.647000,Finished,4.0,57.0,2023,1
+10,gasly,Alpine,alpine,Pierre Gasly,9.0,9,20.0,0 days 00:01:13.753000,Finished,2.0,57.0,2023,1
+23,albon,Williams,williams,Alexander Albon,10.0,10,15.0,0 days 00:01:29.774000,Finished,1.0,57.0,2023,1
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,11.0,11,14.0,0 days 00:01:30.870000,Finished,0.0,57.0,2023,1
+2,sargeant,Williams,williams,Logan Sargeant,12.0,12,16.0,0 days 00:00:01.136000,Lapped,0.0,56.0,2023,1
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,13.0,13,17.0,0 days 00:00:16.757000,Lapped,0.0,56.0,2023,1
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,14.0,14,19.0,0 days 00:00:22.523000,Lapped,0.0,56.0,2023,1
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,15.0,15,10.0,0 days 00:00:38.911000,Lapped,0.0,56.0,2023,1
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,16.0,16,13.0,0 days 00:00:39.649000,Lapped,0.0,56.0,2023,1
+4,norris,McLaren,mclaren,Lando Norris,17.0,17,11.0,0 days 00:00:06.636000,Lapped,0.0,55.0,2023,1
+31,ocon,Alpine,alpine,Esteban Ocon,18.0,R,9.0,,Retired,0.0,41.0,2023,1
+16,leclerc,Ferrari,ferrari,Charles Leclerc,19.0,R,3.0,,Retired,0.0,39.0,2023,1
+81,piastri,McLaren,mclaren,Oscar Piastri,20.0,R,18.0,,Retired,0.0,13.0,2023,1
+11,perez,Red Bull Racing,red_bull,Sergio Perez,1.0,1,1.0,0 days 01:21:14.894000,Finished,25.0,50.0,2023,2
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,2,15.0,0 days 00:00:05.355000,Finished,19.0,50.0,2023,2
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,3.0,3,2.0,0 days 00:00:20.728000,Finished,15.0,50.0,2023,2
+63,russell,Mercedes,mercedes,George Russell,4.0,4,3.0,0 days 00:00:25.866000,Finished,12.0,50.0,2023,2
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,5,7.0,0 days 00:00:31.065000,Finished,10.0,50.0,2023,2
+55,sainz,Ferrari,ferrari,Carlos Sainz,6.0,6,4.0,0 days 00:00:35.876000,Finished,8.0,50.0,2023,2
+16,leclerc,Ferrari,ferrari,Charles Leclerc,7.0,7,12.0,0 days 00:00:43.162000,Finished,6.0,50.0,2023,2
+31,ocon,Alpine,alpine,Esteban Ocon,8.0,8,6.0,0 days 00:00:52.832000,Finished,4.0,50.0,2023,2
+10,gasly,Alpine,alpine,Pierre Gasly,9.0,9,9.0,0 days 00:00:54.747000,Finished,2.0,50.0,2023,2
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,10.0,10,13.0,0 days 00:01:04.826000,Finished,1.0,50.0,2023,2
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,11.0,11,16.0,0 days 00:01:07.494000,Finished,0.0,50.0,2023,2
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,12.0,12,10.0,0 days 00:01:10.588000,Finished,0.0,50.0,2023,2
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,13,11.0,0 days 00:01:16.060000,Finished,0.0,50.0,2023,2
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,14.0,14,18.0,0 days 00:01:17.478000,Finished,0.0,50.0,2023,2
+81,piastri,McLaren,mclaren,Oscar Piastri,15.0,15,8.0,0 days 00:01:25.021000,Finished,0.0,50.0,2023,2
+2,sargeant,Williams,williams,Logan Sargeant,16.0,16,20.0,0 days 00:01:26.293000,Finished,0.0,50.0,2023,2
+4,norris,McLaren,mclaren,Lando Norris,17.0,17,19.0,0 days 00:01:26.445000,Finished,0.0,50.0,2023,2
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,18.0,18,14.0,0 days 00:00:29.584000,Lapped,0.0,49.0,2023,2
+23,albon,Williams,williams,Alexander Albon,19.0,R,17.0,,Retired,0.0,27.0,2023,2
+18,stroll,Aston Martin,aston_martin,Lance Stroll,20.0,R,5.0,,Retired,0.0,16.0,2023,2
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 02:32:38.371000,Finished,25.0,58.0,2023,3
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,2.0,2,3.0,0 days 00:00:00.179000,Finished,18.0,58.0,2023,3
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,3.0,3,4.0,0 days 00:00:00.769000,Finished,15.0,58.0,2023,3
+18,stroll,Aston Martin,aston_martin,Lance Stroll,4.0,4,6.0,0 days 00:00:03.082000,Finished,12.0,58.0,2023,3
+11,perez,Red Bull Racing,red_bull,Sergio Perez,5.0,5,20.0,0 days 00:00:03.320000,Finished,11.0,58.0,2023,3
+4,norris,McLaren,mclaren,Lando Norris,6.0,6,13.0,0 days 00:00:03.701000,Finished,8.0,58.0,2023,3
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,7.0,7,10.0,0 days 00:00:04.939000,Finished,6.0,58.0,2023,3
+81,piastri,McLaren,mclaren,Oscar Piastri,8.0,8,16.0,0 days 00:00:05.382000,Finished,4.0,58.0,2023,3
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,9.0,9,17.0,0 days 00:00:05.713000,Finished,2.0,58.0,2023,3
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,10.0,10,12.0,0 days 00:00:06.052000,Finished,1.0,58.0,2023,3
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,11.0,11,19.0,0 days 00:00:06.513000,Finished,0.0,58.0,2023,3
+55,sainz,Ferrari,ferrari,Carlos Sainz,12.0,12,5.0,0 days 00:00:06.594000,Finished,0.0,58.0,2023,3
+10,gasly,Alpine,alpine,Pierre Gasly,13.0,13,9.0,,Retired,0.0,56.0,2023,3
+31,ocon,Alpine,alpine,Esteban Ocon,14.0,14,11.0,,Retired,0.0,56.0,2023,3
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,15.0,15,15.0,,Retired,0.0,56.0,2023,3
+2,sargeant,Williams,williams,Logan Sargeant,16.0,16,18.0,,Retired,0.0,56.0,2023,3
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,17.0,17,14.0,,Retired,0.0,52.0,2023,3
+63,russell,Mercedes,mercedes,George Russell,18.0,R,2.0,,Retired,0.0,17.0,2023,3
+23,albon,Williams,williams,Alexander Albon,19.0,R,8.0,,Retired,0.0,6.0,2023,3
+16,leclerc,Ferrari,ferrari,Charles Leclerc,20.0,R,7.0,,Retired,0.0,0.0,2023,3
+11,perez,Red Bull Racing,red_bull,Sergio Perez,1.0,1,3.0,0 days 01:32:42.436000,Finished,25.0,51.0,2023,4
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,2.0,2,2.0,0 days 00:00:02.137000,Finished,18.0,51.0,2023,4
+16,leclerc,Ferrari,ferrari,Charles Leclerc,3.0,3,1.0,0 days 00:00:21.217000,Finished,15.0,51.0,2023,4
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,4.0,4,6.0,0 days 00:00:22.024000,Finished,12.0,51.0,2023,4
+55,sainz,Ferrari,ferrari,Carlos Sainz,5.0,5,4.0,0 days 00:00:45.491000,Finished,10.0,51.0,2023,4
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,6,5.0,0 days 00:00:46.145000,Finished,8.0,51.0,2023,4
+18,stroll,Aston Martin,aston_martin,Lance Stroll,7.0,7,9.0,0 days 00:00:51.617000,Finished,6.0,51.0,2023,4
+63,russell,Mercedes,mercedes,George Russell,8.0,8,11.0,0 days 00:01:14.240000,Finished,5.0,51.0,2023,4
+4,norris,McLaren,mclaren,Lando Norris,9.0,9,7.0,0 days 00:01:20.376000,Finished,2.0,51.0,2023,4
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,10.0,10,8.0,0 days 00:01:23.862000,Finished,1.0,51.0,2023,4
+81,piastri,McLaren,mclaren,Oscar Piastri,11.0,11,10.0,0 days 00:01:26.501000,Finished,0.0,51.0,2023,4
+23,albon,Williams,williams,Alexander Albon,12.0,12,12.0,0 days 00:01:28.623000,Finished,0.0,51.0,2023,4
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,13.0,13,16.0,0 days 00:01:29.729000,Finished,0.0,51.0,2023,4
+10,gasly,Alpine,alpine,Pierre Gasly,14.0,14,17.0,0 days 00:01:31.332000,Finished,0.0,51.0,2023,4
+31,ocon,Alpine,alpine,Esteban Ocon,15.0,15,19.0,0 days 00:01:37.794000,Finished,0.0,51.0,2023,4
+2,sargeant,Williams,williams,Logan Sargeant,16.0,16,14.0,0 days 00:01:40.943000,Finished,0.0,51.0,2023,4
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,17.0,17,20.0,0 days 00:00:09.937000,Lapped,0.0,50.0,2023,4
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,18.0,18,13.0,0 days 00:00:19.098000,Lapped,0.0,50.0,2023,4
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,19.0,R,15.0,,Retired,0.0,36.0,2023,4
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,20.0,R,18.0,,Retired,0.0,9.0,2023,4
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,9.0,0 days 01:27:38.241000,Finished,26.0,57.0,2023,5
+11,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,2,1.0,0 days 00:00:05.384000,Finished,18.0,57.0,2023,5
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,3.0,3,2.0,0 days 00:00:26.305000,Finished,15.0,57.0,2023,5
+63,russell,Mercedes,mercedes,George Russell,4.0,4,6.0,0 days 00:00:33.229000,Finished,12.0,57.0,2023,5
+55,sainz,Ferrari,ferrari,Carlos Sainz,5.0,5,3.0,0 days 00:00:42.511000,Finished,10.0,57.0,2023,5
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,6,13.0,0 days 00:00:51.249000,Finished,8.0,57.0,2023,5
+16,leclerc,Ferrari,ferrari,Charles Leclerc,7.0,7,7.0,0 days 00:00:52.988000,Finished,6.0,57.0,2023,5
+10,gasly,Alpine,alpine,Pierre Gasly,8.0,8,5.0,0 days 00:00:55.670000,Finished,4.0,57.0,2023,5
+31,ocon,Alpine,alpine,Esteban Ocon,9.0,9,8.0,0 days 00:00:58.123000,Finished,2.0,57.0,2023,5
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,10.0,10,4.0,0 days 00:01:02.945000,Finished,1.0,57.0,2023,5
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,11.0,11,17.0,0 days 00:01:04.309000,Finished,0.0,57.0,2023,5
+18,stroll,Aston Martin,aston_martin,Lance Stroll,12.0,12,18.0,0 days 00:01:04.754000,Finished,0.0,57.0,2023,5
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,13.0,13,10.0,0 days 00:01:11.637000,Finished,0.0,57.0,2023,5
+23,albon,Williams,williams,Alexander Albon,14.0,14,11.0,0 days 00:01:12.861000,Finished,0.0,57.0,2023,5
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,15.0,15,12.0,0 days 00:01:14.950000,Finished,0.0,57.0,2023,5
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,16.0,16,14.0,0 days 00:01:18.440000,Finished,0.0,57.0,2023,5
+4,norris,McLaren,mclaren,Lando Norris,17.0,17,16.0,0 days 00:01:27.717000,Finished,0.0,57.0,2023,5
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,18.0,18,15.0,0 days 00:01:28.949000,Finished,0.0,57.0,2023,5
+81,piastri,McLaren,mclaren,Oscar Piastri,19.0,19,19.0,0 days 00:00:20.510000,Lapped,0.0,56.0,2023,5
+2,sargeant,Williams,williams,Logan Sargeant,20.0,20,20.0,0 days 00:00:34.388000,Lapped,0.0,56.0,2023,5
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:48:51.980000,Finished,25.0,78.0,2023,6
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,2.0,2,2.0,0 days 00:00:27.921000,Finished,18.0,78.0,2023,6
+31,ocon,Alpine,alpine,Esteban Ocon,3.0,3,3.0,0 days 00:00:36.990000,Finished,15.0,78.0,2023,6
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,4.0,4,5.0,0 days 00:00:39.062000,Finished,13.0,78.0,2023,6
+63,russell,Mercedes,mercedes,George Russell,5.0,5,8.0,0 days 00:00:56.284000,Finished,10.0,78.0,2023,6
+16,leclerc,Ferrari,ferrari,Charles Leclerc,6.0,6,6.0,0 days 00:01:01.890000,Finished,8.0,78.0,2023,6
+10,gasly,Alpine,alpine,Pierre Gasly,7.0,7,7.0,0 days 00:01:02.362000,Finished,6.0,78.0,2023,6
+55,sainz,Ferrari,ferrari,Carlos Sainz,8.0,8,4.0,0 days 00:01:03.391000,Finished,4.0,78.0,2023,6
+4,norris,McLaren,mclaren,Lando Norris,9.0,9,10.0,0 days 00:00:04.061000,Lapped,2.0,77.0,2023,6
+81,piastri,McLaren,mclaren,Oscar Piastri,10.0,10,11.0,0 days 00:00:13.959000,Lapped,1.0,77.0,2023,6
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,11.0,11,15.0,0 days 00:00:28.963000,Lapped,0.0,77.0,2023,6
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,12.0,12,12.0,0 days 00:00:57.317000,Lapped,0.0,77.0,2023,6
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,13,19.0,0 days 00:01:11.852000,Lapped,0.0,77.0,2023,6
+23,albon,Williams,williams,Alexander Albon,14.0,14,13.0,0 days 00:01:19.210000,Lapped,0.0,77.0,2023,6
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,15.0,15,9.0,0 days 00:00:07.545000,Lapped,0.0,76.0,2023,6
+11,perez,Red Bull Racing,red_bull,Sergio Perez,16.0,16,20.0,0 days 00:00:49.024000,Lapped,0.0,76.0,2023,6
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,17.0,17,18.0,0 days 00:00:58.506000,Lapped,0.0,76.0,2023,6
+2,sargeant,Williams,williams,Logan Sargeant,18.0,18,16.0,0 days 00:01:17.983000,Lapped,0.0,76.0,2023,6
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,19.0,19,17.0,,Retired,0.0,70.0,2023,6
+18,stroll,Aston Martin,aston_martin,Lance Stroll,20.0,R,14.0,,Retired,0.0,53.0,2023,6
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:27:57.940000,Finished,26.0,66.0,2023,7
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,2.0,2,4.0,0 days 00:00:24.090000,Finished,18.0,66.0,2023,7
+63,russell,Mercedes,mercedes,George Russell,3.0,3,12.0,0 days 00:00:32.389000,Finished,15.0,66.0,2023,7
+11,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,4,11.0,0 days 00:00:35.812000,Finished,12.0,66.0,2023,7
+55,sainz,Ferrari,ferrari,Carlos Sainz,5.0,5,2.0,0 days 00:00:45.698000,Finished,10.0,66.0,2023,7
+18,stroll,Aston Martin,aston_martin,Lance Stroll,6.0,6,5.0,0 days 00:01:03.320000,Finished,8.0,66.0,2023,7
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,7.0,7,8.0,0 days 00:01:04.127000,Finished,6.0,66.0,2023,7
+31,ocon,Alpine,alpine,Esteban Ocon,8.0,8,6.0,0 days 00:01:09.242000,Finished,4.0,66.0,2023,7
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,9.0,9,13.0,0 days 00:01:11.878000,Finished,2.0,66.0,2023,7
+10,gasly,Alpine,alpine,Pierre Gasly,10.0,10,10.0,0 days 00:01:13.530000,Finished,1.0,66.0,2023,7
+16,leclerc,Ferrari,ferrari,Charles Leclerc,11.0,11,19.0,0 days 00:01:14.419000,Finished,0.0,66.0,2023,7
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,12.0,12,15.0,0 days 00:01:15.416000,Finished,0.0,66.0,2023,7
+81,piastri,McLaren,mclaren,Oscar Piastri,13.0,13,9.0,0 days 00:00:04.275000,Lapped,0.0,65.0,2023,7
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,14.0,14,14.0,0 days 00:00:05.327000,Lapped,0.0,65.0,2023,7
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,15.0,15,7.0,0 days 00:00:17.297000,Lapped,0.0,65.0,2023,7
+23,albon,Williams,williams,Alexander Albon,16.0,16,18.0,0 days 00:00:27.708000,Lapped,0.0,65.0,2023,7
+4,norris,McLaren,mclaren,Lando Norris,17.0,17,3.0,0 days 00:00:30.390000,Lapped,0.0,65.0,2023,7
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,18,17.0,0 days 00:00:38.080000,Lapped,0.0,65.0,2023,7
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,19.0,19,16.0,0 days 00:00:49.943000,Lapped,0.0,65.0,2023,7
+2,sargeant,Williams,williams,Logan Sargeant,20.0,20,20.0,0 days 00:00:51.677000,Lapped,0.0,65.0,2023,7
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:33:58.348000,Finished,25.0,70.0,2023,8
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,2.0,2,2.0,0 days 00:00:09.570000,Finished,18.0,70.0,2023,8
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,3.0,3,3.0,0 days 00:00:14.168000,Finished,15.0,70.0,2023,8
+16,leclerc,Ferrari,ferrari,Charles Leclerc,4.0,4,10.0,0 days 00:00:18.648000,Finished,12.0,70.0,2023,8
+55,sainz,Ferrari,ferrari,Carlos Sainz,5.0,5,11.0,0 days 00:00:21.540000,Finished,10.0,70.0,2023,8
+11,perez,Red Bull Racing,red_bull,Sergio Perez,6.0,6,12.0,0 days 00:00:51.028000,Finished,9.0,70.0,2023,8
+23,albon,Williams,williams,Alexander Albon,7.0,7,9.0,0 days 00:01:00.813000,Finished,6.0,70.0,2023,8
+31,ocon,Alpine,alpine,Esteban Ocon,8.0,8,6.0,0 days 00:01:01.692000,Finished,4.0,70.0,2023,8
+18,stroll,Aston Martin,aston_martin,Lance Stroll,9.0,9,16.0,0 days 00:01:04.402000,Finished,2.0,70.0,2023,8
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,10.0,10,14.0,0 days 00:01:04.432000,Finished,1.0,70.0,2023,8
+81,piastri,McLaren,mclaren,Oscar Piastri,11.0,11,8.0,0 days 00:01:05.101000,Finished,0.0,70.0,2023,8
+10,gasly,Alpine,alpine,Pierre Gasly,12.0,12,15.0,0 days 00:01:05.249000,Finished,0.0,70.0,2023,8
+4,norris,McLaren,mclaren,Lando Norris,13.0,13,7.0,0 days 00:01:08.363000,Finished,0.0,70.0,2023,8
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,14.0,14,19.0,0 days 00:01:13.423000,Finished,0.0,70.0,2023,8
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,15.0,15,5.0,0 days 00:00:16.943000,Lapped,0.0,69.0,2023,8
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,16.0,16,20.0,0 days 00:00:17.377000,Lapped,0.0,69.0,2023,8
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,17.0,17,13.0,0 days 00:01:10.259000,Lapped,0.0,69.0,2023,8
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,18.0,18,17.0,0 days 00:01:14.967000,Lapped,0.0,69.0,2023,8
+63,russell,Mercedes,mercedes,George Russell,19.0,R,4.0,,Retired,0.0,53.0,2023,8
+2,sargeant,Williams,williams,Logan Sargeant,20.0,R,18.0,,Retired,0.0,6.0,2023,8
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:25:33.607000,Finished,26.0,71.0,2023,9
+16,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,2,2.0,0 days 00:00:05.155000,Finished,18.0,71.0,2023,9
+11,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,3,15.0,0 days 00:00:17.188000,Finished,15.0,71.0,2023,9
+4,norris,McLaren,mclaren,Lando Norris,4.0,4,4.0,0 days 00:00:26.327000,Finished,12.0,71.0,2023,9
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,5.0,5,7.0,0 days 00:00:30.317000,Finished,10.0,71.0,2023,9
+55,sainz,Ferrari,ferrari,Carlos Sainz,6.0,6,3.0,0 days 00:00:31.377000,Finished,8.0,71.0,2023,9
+63,russell,Mercedes,mercedes,George Russell,7.0,7,11.0,0 days 00:00:48.403000,Finished,6.0,71.0,2023,9
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,8.0,8,5.0,0 days 00:00:49.196000,Finished,4.0,71.0,2023,9
+18,stroll,Aston Martin,aston_martin,Lance Stroll,9.0,9,6.0,0 days 00:00:59.043000,Finished,2.0,71.0,2023,9
+10,gasly,Alpine,alpine,Pierre Gasly,10.0,10,9.0,0 days 00:01:07.667000,Finished,1.0,71.0,2023,9
+23,albon,Williams,williams,Alexander Albon,11.0,11,10.0,0 days 00:01:19.767000,Finished,0.0,71.0,2023,9
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,12.0,12,17.0,0 days 00:00:24.633000,Lapped,0.0,70.0,2023,9
+2,sargeant,Williams,williams,Logan Sargeant,13.0,13,18.0,0 days 00:00:31.384000,Lapped,0.0,70.0,2023,9
+31,ocon,Alpine,alpine,Esteban Ocon,14.0,14,12.0,0 days 00:00:42.140000,Lapped,0.0,70.0,2023,9
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,15.0,15,14.0,0 days 00:00:42.777000,Lapped,0.0,70.0,2023,9
+81,piastri,McLaren,mclaren,Oscar Piastri,16.0,16,13.0,0 days 00:00:46.569000,Lapped,0.0,70.0,2023,9
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,17.0,17,20.0,0 days 00:00:49.703000,Lapped,0.0,70.0,2023,9
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,18,19.0,0 days 00:00:56.653000,Lapped,0.0,70.0,2023,9
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,19.0,19,16.0,0 days 00:00:59.873000,Lapped,0.0,70.0,2023,9
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,20.0,R,8.0,,Retired,0.0,12.0,2023,9
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:25:16.938000,Finished,26.0,52.0,2023,10
+4,norris,McLaren,mclaren,Lando Norris,2.0,2,2.0,0 days 00:00:03.798000,Finished,18.0,52.0,2023,10
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,3.0,3,7.0,0 days 00:00:06.783000,Finished,15.0,52.0,2023,10
+81,piastri,McLaren,mclaren,Oscar Piastri,4.0,4,3.0,0 days 00:00:07.776000,Finished,12.0,52.0,2023,10
+63,russell,Mercedes,mercedes,George Russell,5.0,5,6.0,0 days 00:00:11.206000,Finished,10.0,52.0,2023,10
+11,perez,Red Bull Racing,red_bull,Sergio Perez,6.0,6,15.0,0 days 00:00:12.882000,Finished,8.0,52.0,2023,10
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,7.0,7,9.0,0 days 00:00:17.193000,Finished,6.0,52.0,2023,10
+23,albon,Williams,williams,Alexander Albon,8.0,8,8.0,0 days 00:00:17.878000,Finished,4.0,52.0,2023,10
+16,leclerc,Ferrari,ferrari,Charles Leclerc,9.0,9,4.0,0 days 00:00:18.689000,Finished,2.0,52.0,2023,10
+55,sainz,Ferrari,ferrari,Carlos Sainz,10.0,10,5.0,0 days 00:00:19.448000,Finished,1.0,52.0,2023,10
+2,sargeant,Williams,williams,Logan Sargeant,11.0,11,14.0,0 days 00:00:23.632000,Finished,0.0,52.0,2023,10
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,12,20.0,0 days 00:00:25.830000,Finished,0.0,52.0,2023,10
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,13.0,13,11.0,0 days 00:00:26.663000,Finished,0.0,52.0,2023,10
+18,stroll,Aston Martin,aston_martin,Lance Stroll,14.0,14,12.0,0 days 00:00:27.483000,Finished,0.0,52.0,2023,10
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,15.0,15,17.0,0 days 00:00:29.820000,Finished,0.0,52.0,2023,10
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,16.0,16,16.0,0 days 00:00:31.225000,Finished,0.0,52.0,2023,10
+21,de_vries,AlphaTauri,alphatauri,Nyck De Vries,17.0,17,18.0,0 days 00:00:33.128000,Finished,0.0,52.0,2023,10
+10,gasly,Alpine,alpine,Pierre Gasly,18.0,18,10.0,,Retired,0.0,46.0,2023,10
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,19.0,R,19.0,,Retired,0.0,31.0,2023,10
+31,ocon,Alpine,alpine,Esteban Ocon,20.0,R,13.0,,Retired,0.0,9.0,2023,10
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,2.0,0 days 01:38:08.634000,Finished,26.0,70.0,2023,11
+4,norris,McLaren,mclaren,Lando Norris,2.0,2,3.0,0 days 00:00:33.731000,Finished,18.0,70.0,2023,11
+11,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,3,9.0,0 days 00:00:37.603000,Finished,15.0,70.0,2023,11
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,4.0,4,1.0,0 days 00:00:39.134000,Finished,12.0,70.0,2023,11
+81,piastri,McLaren,mclaren,Oscar Piastri,5.0,5,4.0,0 days 00:01:02.572000,Finished,10.0,70.0,2023,11
+63,russell,Mercedes,mercedes,George Russell,6.0,6,18.0,0 days 00:01:05.825000,Finished,8.0,70.0,2023,11
+16,leclerc,Ferrari,ferrari,Charles Leclerc,7.0,7,6.0,0 days 00:01:10.317000,Finished,6.0,70.0,2023,11
+55,sainz,Ferrari,ferrari,Carlos Sainz,8.0,8,11.0,0 days 00:01:11.073000,Finished,4.0,70.0,2023,11
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,9.0,9,8.0,0 days 00:01:15.709000,Finished,2.0,70.0,2023,11
+18,stroll,Aston Martin,aston_martin,Lance Stroll,10.0,10,14.0,0 days 00:00:14.615000,Lapped,1.0,69.0,2023,11
+23,albon,Williams,williams,Alexander Albon,11.0,11,16.0,0 days 00:00:29.087000,Lapped,0.0,69.0,2023,11
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,12,7.0,0 days 00:00:30.079000,Lapped,0.0,69.0,2023,11
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,13.0,13,13.0,0 days 00:00:36.257000,Lapped,0.0,69.0,2023,11
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,14.0,14,10.0,0 days 00:00:51.298000,Lapped,0.0,69.0,2023,11
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,15.0,15,17.0,0 days 00:00:51.543000,Lapped,0.0,69.0,2023,11
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,16.0,16,5.0,0 days 00:01:00.491000,Lapped,0.0,69.0,2023,11
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,17.0,17,19.0,0 days 00:01:22.351000,Lapped,0.0,69.0,2023,11
+2,sargeant,Williams,williams,Logan Sargeant,18.0,18,20.0,,Retired,0.0,67.0,2023,11
+31,ocon,Alpine,alpine,Esteban Ocon,19.0,R,12.0,,Retired,0.0,2.0,2023,11
+10,gasly,Alpine,alpine,Pierre Gasly,20.0,R,15.0,,Retired,0.0,1.0,2023,11
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,6.0,0 days 01:22:30.450000,Finished,25.0,44.0,2023,12
+11,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,2,2.0,0 days 00:00:22.305000,Finished,18.0,44.0,2023,12
+16,leclerc,Ferrari,ferrari,Charles Leclerc,3.0,3,1.0,0 days 00:00:32.259000,Finished,15.0,44.0,2023,12
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,4.0,4,3.0,0 days 00:00:49.671000,Finished,13.0,44.0,2023,12
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,5.0,5,9.0,0 days 00:00:56.184000,Finished,10.0,44.0,2023,12
+63,russell,Mercedes,mercedes,George Russell,6.0,6,8.0,0 days 00:01:03.101000,Finished,8.0,44.0,2023,12
+4,norris,McLaren,mclaren,Lando Norris,7.0,7,7.0,0 days 00:01:13.719000,Finished,6.0,44.0,2023,12
+31,ocon,Alpine,alpine,Esteban Ocon,8.0,8,14.0,0 days 00:01:14.719000,Finished,4.0,44.0,2023,12
+18,stroll,Aston Martin,aston_martin,Lance Stroll,9.0,9,10.0,0 days 00:01:19.340000,Finished,2.0,44.0,2023,12
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,10.0,10,11.0,0 days 00:01:20.221000,Finished,1.0,44.0,2023,12
+10,gasly,Alpine,alpine,Pierre Gasly,11.0,11,12.0,0 days 00:01:23.084000,Finished,0.0,44.0,2023,12
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,12,13.0,0 days 00:01:25.191000,Finished,0.0,44.0,2023,12
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,13,17.0,0 days 00:01:35.441000,Finished,0.0,44.0,2023,12
+23,albon,Williams,williams,Alexander Albon,14.0,14,15.0,0 days 00:01:36.184000,Finished,0.0,44.0,2023,12
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,15.0,15,16.0,0 days 00:01:41.754000,Finished,0.0,44.0,2023,12
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,16.0,16,19.0,0 days 00:01:43.071000,Finished,0.0,44.0,2023,12
+2,sargeant,Williams,williams,Logan Sargeant,17.0,17,18.0,0 days 00:01:44.476000,Finished,0.0,44.0,2023,12
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,18.0,18,20.0,0 days 00:01:50.450000,Finished,0.0,44.0,2023,12
+55,sainz,Ferrari,ferrari,Carlos Sainz,19.0,R,4.0,,Retired,0.0,23.0,2023,12
+81,piastri,McLaren,mclaren,Oscar Piastri,20.0,R,5.0,,Retired,0.0,0.0,2023,12
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 02:24:04.411000,Finished,25.0,72.0,2023,13
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,2.0,2,5.0,0 days 00:00:03.744000,Finished,19.0,72.0,2023,13
+10,gasly,Alpine,alpine,Pierre Gasly,3.0,3,12.0,0 days 00:00:07.058000,Finished,15.0,72.0,2023,13
+11,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,4,7.0,0 days 00:00:10.068000,Finished,12.0,72.0,2023,13
+55,sainz,Ferrari,ferrari,Carlos Sainz,5.0,5,6.0,0 days 00:00:12.541000,Finished,10.0,72.0,2023,13
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,6,13.0,0 days 00:00:13.209000,Finished,8.0,72.0,2023,13
+4,norris,McLaren,mclaren,Lando Norris,7.0,7,2.0,0 days 00:00:13.232000,Finished,6.0,72.0,2023,13
+23,albon,Williams,williams,Alexander Albon,8.0,8,4.0,0 days 00:00:15.155000,Finished,4.0,72.0,2023,13
+81,piastri,McLaren,mclaren,Oscar Piastri,9.0,9,8.0,0 days 00:00:16.580000,Finished,2.0,72.0,2023,13
+31,ocon,Alpine,alpine,Esteban Ocon,10.0,10,16.0,0 days 00:00:18.346000,Finished,1.0,72.0,2023,13
+18,stroll,Aston Martin,aston_martin,Lance Stroll,11.0,11,11.0,0 days 00:00:20.087000,Finished,0.0,72.0,2023,13
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,12.0,12,14.0,0 days 00:00:20.840000,Finished,0.0,72.0,2023,13
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,13.0,13,19.0,0 days 00:00:26.147000,Finished,0.0,72.0,2023,13
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,14.0,14,18.0,0 days 00:00:27.388000,Finished,0.0,72.0,2023,13
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,15.0,15,17.0,0 days 00:00:29.893000,Finished,0.0,72.0,2023,13
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,16.0,16,0.0,0 days 00:00:31.410000,Finished,0.0,72.0,2023,13
+63,russell,Mercedes,mercedes,George Russell,17.0,17,3.0,0 days 00:00:55.754000,Finished,0.0,72.0,2023,13
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,18.0,R,15.0,,Accident,0.0,62.0,2023,13
+16,leclerc,Ferrari,ferrari,Charles Leclerc,19.0,R,9.0,,Undertray,0.0,41.0,2023,13
+2,sargeant,Williams,williams,Logan Sargeant,20.0,R,10.0,,Accident,0.0,14.0,2023,13
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,2.0,0 days 01:13:41.143000,Finished,25.0,51.0,2023,14
+11,perez,Red Bull Racing,red_bull,Sergio Perez,2.0,2,5.0,0 days 00:00:06.064000,Finished,18.0,51.0,2023,14
+55,sainz,Ferrari,ferrari,Carlos Sainz,3.0,3,1.0,0 days 00:00:11.193000,Finished,15.0,51.0,2023,14
+16,leclerc,Ferrari,ferrari,Charles Leclerc,4.0,4,3.0,0 days 00:00:11.377000,Finished,12.0,51.0,2023,14
+63,russell,Mercedes,mercedes,George Russell,5.0,5,4.0,0 days 00:00:23.028000,Finished,10.0,51.0,2023,14
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,6.0,6,8.0,0 days 00:00:42.679000,Finished,8.0,51.0,2023,14
+23,albon,Williams,williams,Alexander Albon,7.0,7,6.0,0 days 00:00:45.106000,Finished,6.0,51.0,2023,14
+4,norris,McLaren,mclaren,Lando Norris,8.0,8,9.0,0 days 00:00:45.449000,Finished,4.0,51.0,2023,14
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,9.0,9,10.0,0 days 00:00:46.294000,Finished,2.0,51.0,2023,14
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,10.0,10,14.0,0 days 00:01:04.056000,Finished,1.0,51.0,2023,14
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,11.0,11,12.0,0 days 00:01:10.638000,Finished,0.0,51.0,2023,14
+81,piastri,McLaren,mclaren,Oscar Piastri,12.0,12,7.0,0 days 00:01:13.074000,Finished,0.0,51.0,2023,14
+2,sargeant,Williams,williams,Logan Sargeant,13.0,13,15.0,0 days 00:01:18.557000,Finished,0.0,51.0,2023,14
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,14,16.0,0 days 00:01:20.164000,Finished,0.0,51.0,2023,14
+10,gasly,Alpine,alpine,Pierre Gasly,15.0,15,17.0,0 days 00:01:22.510000,Finished,0.0,51.0,2023,14
+18,stroll,Aston Martin,aston_martin,Lance Stroll,16.0,16,20.0,0 days 00:01:27.266000,Finished,0.0,51.0,2023,14
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,17.0,17,13.0,0 days 00:00:02.093000,Lapped,0.0,50.0,2023,14
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,18,19.0,0 days 00:00:12.624000,Lapped,0.0,50.0,2023,14
+31,ocon,Alpine,alpine,Esteban Ocon,19.0,R,18.0,,Retired,0.0,39.0,2023,14
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,20.0,W,11.0,,Did not start,0.0,0.0,2023,14
+55,sainz,Ferrari,ferrari,Carlos Sainz,1.0,1,1.0,0 days 01:46:37.418000,Finished,25.0,62.0,2023,15
+4,norris,McLaren,mclaren,Lando Norris,2.0,2,4.0,0 days 00:00:00.812000,Finished,18.0,62.0,2023,15
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,3.0,3,5.0,0 days 00:00:01.269000,Finished,16.0,62.0,2023,15
+16,leclerc,Ferrari,ferrari,Charles Leclerc,4.0,4,3.0,0 days 00:00:21.177000,Finished,12.0,62.0,2023,15
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,5.0,5,11.0,0 days 00:00:21.441000,Finished,10.0,62.0,2023,15
+10,gasly,Alpine,alpine,Pierre Gasly,6.0,6,12.0,0 days 00:00:38.441000,Finished,8.0,62.0,2023,15
+81,piastri,McLaren,mclaren,Oscar Piastri,7.0,7,17.0,0 days 00:00:41.479000,Finished,6.0,62.0,2023,15
+11,perez,Red Bull Racing,red_bull,Sergio Perez,8.0,8,13.0,0 days 00:00:59.534000,Finished,4.0,62.0,2023,15
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,9.0,9,10.0,0 days 00:01:05.918000,Finished,2.0,62.0,2023,15
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,10.0,10,6.0,0 days 00:01:12.116000,Finished,1.0,62.0,2023,15
+23,albon,Williams,williams,Alexander Albon,11.0,11,14.0,0 days 00:01:13.417000,Finished,0.0,62.0,2023,15
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,12.0,12,19.0,0 days 00:01:23.649000,Finished,0.0,62.0,2023,15
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,13.0,13,9.0,0 days 00:01:26.201000,Finished,0.0,62.0,2023,15
+2,sargeant,Williams,williams,Logan Sargeant,14.0,14,18.0,0 days 00:01:26.889000,Finished,0.0,62.0,2023,15
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,15.0,15,7.0,0 days 00:01:27.603000,Finished,0.0,62.0,2023,15
+63,russell,Mercedes,mercedes,George Russell,16.0,16,2.0,,Retired,0.0,61.0,2023,15
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,17.0,R,16.0,,Retired,0.0,51.0,2023,15
+31,ocon,Alpine,alpine,Esteban Ocon,18.0,R,8.0,,Retired,0.0,42.0,2023,15
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,19.0,R,15.0,,Retired,0.0,0.0,2023,15
+18,stroll,Aston Martin,aston_martin,Lance Stroll,,W,,,Withdrew,0.0,0.0,2023,15
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:30:58.421000,Finished,26.0,53.0,2023,16
+4,norris,McLaren,mclaren,Lando Norris,2.0,2,3.0,0 days 00:00:19.387000,Finished,18.0,53.0,2023,16
+81,piastri,McLaren,mclaren,Oscar Piastri,3.0,3,2.0,0 days 00:00:36.494000,Finished,15.0,53.0,2023,16
+16,leclerc,Ferrari,ferrari,Charles Leclerc,4.0,4,4.0,0 days 00:00:43.998000,Finished,12.0,53.0,2023,16
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,5.0,5,7.0,0 days 00:00:49.376000,Finished,10.0,53.0,2023,16
+55,sainz,Ferrari,ferrari,Carlos Sainz,6.0,6,6.0,0 days 00:00:50.221000,Finished,8.0,53.0,2023,16
+63,russell,Mercedes,mercedes,George Russell,7.0,7,8.0,0 days 00:00:57.659000,Finished,6.0,53.0,2023,16
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,8.0,8,10.0,0 days 00:01:14.725000,Finished,4.0,53.0,2023,16
+31,ocon,Alpine,alpine,Esteban Ocon,9.0,9,14.0,0 days 00:01:19.678000,Finished,2.0,53.0,2023,16
+10,gasly,Alpine,alpine,Pierre Gasly,10.0,10,12.0,0 days 00:01:23.155000,Finished,1.0,53.0,2023,16
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,11.0,11,11.0,0 days 00:00:03.089000,Lapped,0.0,52.0,2023,16
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,12.0,12,9.0,0 days 00:00:03.974000,Lapped,0.0,52.0,2023,16
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,13,19.0,0 days 00:00:06.340000,Lapped,0.0,52.0,2023,16
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,14.0,14,18.0,0 days 00:00:09.598000,Lapped,0.0,52.0,2023,16
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,15.0,15,15.0,0 days 00:00:29.570000,Lapped,0.0,52.0,2023,16
+23,albon,Williams,williams,Alexander Albon,16.0,R,13.0,,Retired,0.0,26.0,2023,16
+2,sargeant,Williams,williams,Logan Sargeant,17.0,R,20.0,,Retired,0.0,22.0,2023,16
+18,stroll,Aston Martin,aston_martin,Lance Stroll,18.0,R,17.0,,Retired,0.0,20.0,2023,16
+11,perez,Red Bull Racing,red_bull,Sergio Perez,19.0,R,5.0,,Retired,0.0,15.0,2023,16
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,20.0,R,16.0,,Retired,0.0,7.0,2023,16
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:27:39.168000,Finished,26.0,57.0,2023,17
+81,piastri,McLaren,mclaren,Oscar Piastri,2.0,2,6.0,0 days 00:00:04.833000,Finished,18.0,57.0,2023,17
+4,norris,McLaren,mclaren,Lando Norris,3.0,3,10.0,0 days 00:00:05.969000,Finished,15.0,57.0,2023,17
+63,russell,Mercedes,mercedes,George Russell,4.0,4,2.0,0 days 00:00:34.119000,Finished,12.0,57.0,2023,17
+16,leclerc,Ferrari,ferrari,Charles Leclerc,5.0,5,5.0,0 days 00:00:38.976000,Finished,10.0,57.0,2023,17
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,6.0,6,4.0,0 days 00:00:49.032000,Finished,8.0,57.0,2023,17
+31,ocon,Alpine,alpine,Esteban Ocon,7.0,7,8.0,0 days 00:01:02.390000,Finished,6.0,57.0,2023,17
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,8.0,8,9.0,0 days 00:01:06.563000,Finished,4.0,57.0,2023,17
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,9.0,9,19.0,0 days 00:01:16.127000,Finished,2.0,57.0,2023,17
+11,perez,Red Bull Racing,red_bull,Sergio Perez,10.0,10,20.0,0 days 00:01:20.181000,Finished,1.0,57.0,2023,17
+18,stroll,Aston Martin,aston_martin,Lance Stroll,11.0,11,16.0,0 days 00:01:21.652000,Finished,0.0,57.0,2023,17
+10,gasly,Alpine,alpine,Pierre Gasly,12.0,12,7.0,0 days 00:01:22.300000,Finished,0.0,57.0,2023,17
+23,albon,Williams,williams,Alexander Albon,13.0,13,13.0,0 days 00:01:31.014000,Finished,0.0,57.0,2023,17
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,14.0,14,18.0,0 days 00:00:01.246000,Lapped,0.0,56.0,2023,17
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,15.0,15,11.0,0 days 00:00:08.958000,Lapped,0.0,56.0,2023,17
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,16.0,16,14.0,0 days 00:00:15.085000,Lapped,0.0,56.0,2023,17
+40,lawson,AlphaTauri,alphatauri,Liam Lawson,17.0,17,17.0,0 days 00:00:27.108000,Lapped,0.0,56.0,2023,17
+2,sargeant,Williams,williams,Logan Sargeant,18.0,R,15.0,,Retired,0.0,40.0,2023,17
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,19.0,R,3.0,,Retired,0.0,0.0,2023,17
+55,sainz,Ferrari,ferrari,Carlos Sainz,20.0,W,12.0,,Did not start,0.0,0.0,2023,17
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,6.0,0 days 01:35:21.362000,Finished,25.0,56.0,2023,18
+4,norris,McLaren,mclaren,Lando Norris,2.0,2,2.0,0 days 00:00:10.730000,Finished,18.0,56.0,2023,18
+55,sainz,Ferrari,ferrari,Carlos Sainz,3.0,3,4.0,0 days 00:00:15.134000,Finished,15.0,56.0,2023,18
+11,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,4,9.0,0 days 00:00:18.460000,Finished,12.0,56.0,2023,18
+63,russell,Mercedes,mercedes,George Russell,5.0,5,5.0,0 days 00:00:24.999000,Finished,10.0,56.0,2023,18
+10,gasly,Alpine,alpine,Pierre Gasly,6.0,6,7.0,0 days 00:00:47.996000,Finished,8.0,56.0,2023,18
+18,stroll,Aston Martin,aston_martin,Lance Stroll,7.0,7,20.0,0 days 00:00:48.696000,Finished,6.0,56.0,2023,18
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,8.0,8,11.0,0 days 00:01:14.385000,Finished,5.0,56.0,2023,18
+23,albon,Williams,williams,Alexander Albon,9.0,9,15.0,0 days 00:01:26.714000,Finished,2.0,56.0,2023,18
+2,sargeant,Williams,williams,Logan Sargeant,10.0,10,16.0,0 days 00:01:27.998000,Finished,1.0,56.0,2023,18
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,11.0,11,18.0,0 days 00:01:29.904000,Finished,0.0,56.0,2023,18
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,12.0,12,13.0,0 days 00:01:38.601000,Finished,0.0,56.0,2023,18
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,13.0,13,12.0,0 days 00:00:03.576000,Lapped,0.0,55.0,2023,18
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,14.0,14,17.0,0 days 00:00:08.072000,Lapped,0.0,55.0,2023,18
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,15.0,15,14.0,0 days 00:00:08.852000,Lapped,0.0,55.0,2023,18
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,16.0,R,19.0,,Retired,0.0,49.0,2023,18
+81,piastri,McLaren,mclaren,Oscar Piastri,17.0,R,10.0,,Retired,0.0,10.0,2023,18
+31,ocon,Alpine,alpine,Esteban Ocon,18.0,R,8.0,,Retired,0.0,6.0,2023,18
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,19.0,19,3.0,0 days 00:00:02.225000,Disqualified,0.0,56.0,2023,18
+16,leclerc,Ferrari,ferrari,Charles Leclerc,20.0,20,1.0,0 days 00:00:24.662000,Disqualified,0.0,56.0,2023,18
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,3.0,0 days 02:02:30.814000,Finished,25.0,71.0,2023,19
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,2.0,2,6.0,0 days 00:00:13.875000,Finished,19.0,71.0,2023,19
+16,leclerc,Ferrari,ferrari,Charles Leclerc,3.0,3,1.0,0 days 00:00:23.124000,Finished,15.0,71.0,2023,19
+55,sainz,Ferrari,ferrari,Carlos Sainz,4.0,4,2.0,0 days 00:00:27.154000,Finished,12.0,71.0,2023,19
+4,norris,McLaren,mclaren,Lando Norris,5.0,5,17.0,0 days 00:00:33.266000,Finished,10.0,71.0,2023,19
+63,russell,Mercedes,mercedes,George Russell,6.0,6,8.0,0 days 00:00:41.020000,Finished,8.0,71.0,2023,19
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,7.0,7,4.0,0 days 00:00:41.570000,Finished,6.0,71.0,2023,19
+81,piastri,McLaren,mclaren,Oscar Piastri,8.0,8,7.0,0 days 00:00:43.104000,Finished,4.0,71.0,2023,19
+23,albon,Williams,williams,Alexander Albon,9.0,9,14.0,0 days 00:00:48.573000,Finished,2.0,71.0,2023,19
+31,ocon,Alpine,alpine,Esteban Ocon,10.0,10,15.0,0 days 00:01:02.879000,Finished,1.0,71.0,2023,19
+10,gasly,Alpine,alpine,Pierre Gasly,11.0,11,11.0,0 days 00:01:06.208000,Finished,0.0,71.0,2023,19
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,12.0,12,18.0,0 days 00:01:18.982000,Finished,0.0,71.0,2023,19
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,13.0,13,12.0,0 days 00:01:20.309000,Finished,0.0,71.0,2023,19
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,14.0,14,10.0,0 days 00:01:21.676000,Finished,0.0,71.0,2023,19
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,15.0,15,9.0,0 days 00:01:25.597000,Finished,0.0,71.0,2023,19
+2,sargeant,Williams,williams,Logan Sargeant,16.0,16,19.0,,Retired,0.0,70.0,2023,19
+18,stroll,Aston Martin,aston_martin,Lance Stroll,17.0,17,0.0,,Collision damage,0.0,66.0,2023,19
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,18.0,W,13.0,,Withdrew,0.0,47.0,2023,19
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,19.0,R,16.0,,Accident,0.0,31.0,2023,19
+11,perez,Red Bull Racing,red_bull,Sergio Perez,20.0,R,5.0,,Collision damage,0.0,1.0,2023,19
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:56:48.894000,Finished,25.0,71.0,2023,20
+4,norris,McLaren,mclaren,Lando Norris,2.0,2,6.0,0 days 00:00:08.277000,Finished,19.0,71.0,2023,20
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,3.0,3,4.0,0 days 00:00:34.155000,Finished,15.0,71.0,2023,20
+11,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,4,9.0,0 days 00:00:34.208000,Finished,12.0,71.0,2023,20
+18,stroll,Aston Martin,aston_martin,Lance Stroll,5.0,5,3.0,0 days 00:00:40.845000,Finished,10.0,71.0,2023,20
+55,sainz,Ferrari,ferrari,Carlos Sainz,6.0,6,7.0,0 days 00:00:50.188000,Finished,8.0,71.0,2023,20
+10,gasly,Alpine,alpine,Pierre Gasly,7.0,7,15.0,0 days 00:00:56.093000,Finished,6.0,71.0,2023,20
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,8.0,8,5.0,0 days 00:01:02.859000,Finished,4.0,71.0,2023,20
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,9.0,9,16.0,0 days 00:01:09.880000,Finished,2.0,71.0,2023,20
+31,ocon,Alpine,alpine,Esteban Ocon,10.0,10,14.0,0 days 00:00:09.841000,Lapped,1.0,70.0,2023,20
+2,sargeant,Williams,williams,Logan Sargeant,11.0,11,19.0,0 days 00:00:26.208000,Lapped,0.0,70.0,2023,20
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,12.0,12,11.0,0 days 00:00:29.960000,Lapped,0.0,70.0,2023,20
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,13.0,13,17.0,0 days 00:01:09.961000,Lapped,0.0,70.0,2023,20
+81,piastri,McLaren,mclaren,Oscar Piastri,14.0,14,10.0,0 days 00:00:03.636000,Lapped,0.0,69.0,2023,20
+63,russell,Mercedes,mercedes,George Russell,15.0,R,8.0,,Retired,0.0,57.0,2023,20
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,16.0,R,18.0,,Retired,0.0,39.0,2023,20
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,17.0,R,20.0,,Retired,0.0,22.0,2023,20
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,18.0,R,12.0,,Retired,0.0,0.0,2023,20
+23,albon,Williams,williams,Alexander Albon,19.0,R,13.0,,Retired,0.0,0.0,2023,20
+16,leclerc,Ferrari,ferrari,Charles Leclerc,20.0,W,2.0,,Did not start,0.0,0.0,2023,20
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,2.0,0 days 01:29:08.289000,Finished,25.0,50.0,2023,21
+16,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,2,1.0,0 days 00:00:02.070000,Finished,18.0,50.0,2023,21
+11,perez,Red Bull Racing,red_bull,Sergio Perez,3.0,3,11.0,0 days 00:00:02.241000,Finished,15.0,50.0,2023,21
+31,ocon,Alpine,alpine,Esteban Ocon,4.0,4,16.0,0 days 00:00:18.665000,Finished,12.0,50.0,2023,21
+18,stroll,Aston Martin,aston_martin,Lance Stroll,5.0,5,19.0,0 days 00:00:20.067000,Finished,10.0,50.0,2023,21
+55,sainz,Ferrari,ferrari,Carlos Sainz,6.0,6,12.0,0 days 00:00:20.834000,Finished,8.0,50.0,2023,21
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,7.0,7,10.0,0 days 00:00:21.755000,Finished,6.0,50.0,2023,21
+63,russell,Mercedes,mercedes,George Russell,8.0,8,3.0,0 days 00:00:23.091000,Finished,4.0,50.0,2023,21
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,9.0,9,9.0,0 days 00:00:25.964000,Finished,2.0,50.0,2023,21
+81,piastri,McLaren,mclaren,Oscar Piastri,10.0,10,18.0,0 days 00:00:29.496000,Finished,2.0,50.0,2023,21
+10,gasly,Alpine,alpine,Pierre Gasly,11.0,11,4.0,0 days 00:00:34.270000,Finished,0.0,50.0,2023,21
+23,albon,Williams,williams,Alexander Albon,12.0,12,5.0,0 days 00:00:43.398000,Finished,0.0,50.0,2023,21
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,13.0,13,8.0,0 days 00:00:44.825000,Finished,0.0,50.0,2023,21
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,14.0,14,14.0,0 days 00:00:48.525000,Finished,0.0,50.0,2023,21
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,15.0,15,17.0,0 days 00:00:50.162000,Finished,0.0,50.0,2023,21
+2,sargeant,Williams,williams,Logan Sargeant,16.0,16,6.0,0 days 00:00:50.882000,Finished,0.0,50.0,2023,21
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,17.0,17,7.0,0 days 00:01:25.350000,Finished,0.0,50.0,2023,21
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,18.0,18,20.0,,Retired,0.0,46.0,2023,21
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,19.0,19,13.0,,Retired,0.0,45.0,2023,21
+4,norris,McLaren,mclaren,Lando Norris,20.0,R,15.0,,Retired,0.0,2.0,2023,21
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,1.0,1,1.0,0 days 01:27:02.624000,Finished,26.0,58.0,2023,22
+16,leclerc,Ferrari,ferrari,Charles Leclerc,2.0,2,2.0,0 days 00:00:17.993000,Finished,18.0,58.0,2023,22
+63,russell,Mercedes,mercedes,George Russell,3.0,3,4.0,0 days 00:00:20.328000,Finished,15.0,58.0,2023,22
+11,perez,Red Bull Racing,red_bull,Sergio Perez,4.0,4,9.0,0 days 00:00:21.453000,Finished,12.0,58.0,2023,22
+4,norris,McLaren,mclaren,Lando Norris,5.0,5,5.0,0 days 00:00:24.284000,Finished,10.0,58.0,2023,22
+81,piastri,McLaren,mclaren,Oscar Piastri,6.0,6,3.0,0 days 00:00:31.487000,Finished,8.0,58.0,2023,22
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,7.0,7,7.0,0 days 00:00:39.512000,Finished,6.0,58.0,2023,22
+22,tsunoda,AlphaTauri,alphatauri,Yuki Tsunoda,8.0,8,6.0,0 days 00:00:43.088000,Finished,4.0,58.0,2023,22
+44,hamilton,Mercedes,mercedes,Lewis Hamilton,9.0,9,11.0,0 days 00:00:44.424000,Finished,2.0,58.0,2023,22
+18,stroll,Aston Martin,aston_martin,Lance Stroll,10.0,10,13.0,0 days 00:00:55.632000,Finished,1.0,58.0,2023,22
+3,ricciardo,AlphaTauri,alphatauri,Daniel Ricciardo,11.0,11,15.0,0 days 00:00:56.229000,Finished,0.0,58.0,2023,22
+31,ocon,Alpine,alpine,Esteban Ocon,12.0,12,12.0,0 days 00:01:06.373000,Finished,0.0,58.0,2023,22
+10,gasly,Alpine,alpine,Pierre Gasly,13.0,13,10.0,0 days 00:01:10.360000,Finished,0.0,58.0,2023,22
+23,albon,Williams,williams,Alexander Albon,14.0,14,14.0,0 days 00:01:13.184000,Finished,0.0,58.0,2023,22
+27,hulkenberg,Haas F1 Team,haas,Nico Hulkenberg,15.0,15,8.0,0 days 00:01:23.696000,Finished,0.0,58.0,2023,22
+2,sargeant,Williams,williams,Logan Sargeant,16.0,16,20.0,0 days 00:01:27.791000,Finished,0.0,58.0,2023,22
+24,zhou,Alfa Romeo,alfa,Guanyu Zhou,17.0,17,19.0,0 days 00:01:29.422000,Finished,0.0,58.0,2023,22
+55,sainz,Ferrari,ferrari,Carlos Sainz,18.0,18,16.0,,Retired,0.0,57.0,2023,22
+77,bottas,Alfa Romeo,alfa,Valtteri Bottas,19.0,19,18.0,0 days 00:00:12.411000,Lapped,0.0,57.0,2023,22
+20,kevin_magnussen,Haas F1 Team,haas,Kevin Magnussen,20.0,20,17.0,0 days 00:00:14.876000,Lapped,0.0,57.0,2023,22
