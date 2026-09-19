@@ -1,0 +1,52 @@
+DriverNumber,DriverId,TeamName,TeamId,FullName,Status,Laps,Year,RoundNumber
+30,lawson,Red Bull Racing,red_bull,Liam Lawson,Retired,46.0,2025,1
+5,bortoleto,Kick Sauber,sauber,Gabriel Bortoleto,Retired,45.0,2025,1
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Retired,32.0,2025,1
+55,sainz,Williams,williams,Carlos Sainz,Retired,0.0,2025,1
+7,doohan,Alpine,alpine,Jack Doohan,Retired,0.0,2025,1
+6,hadjar,Racing Bulls,rb,Isack Hadjar,Retired,0.0,2025,1
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Retired,4.0,2025,2
+55,sainz,Williams,williams,Carlos Sainz,Retired,45.0,2025,4
+22,tsunoda,Red Bull Racing,red_bull,Yuki Tsunoda,Retired,1.0,2025,5
+10,gasly,Alpine,alpine,Pierre Gasly,Retired,0.0,2025,5
+30,lawson,Racing Bulls,rb,Liam Lawson,Retired,36.0,2025,6
+5,bortoleto,Kick Sauber,sauber,Gabriel Bortoleto,Retired,30.0,2025,6
+87,bearman,Haas F1 Team,haas,Oliver Bearman,Retired,27.0,2025,6
+7,doohan,Alpine,alpine,Jack Doohan,Retired,0.0,2025,6
+12,antonelli,Mercedes,mercedes,Kimi Antonelli,Retired,44.0,2025,7
+31,ocon,Haas F1 Team,haas,Esteban Ocon,Retired,27.0,2025,7
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Retired,36.0,2025,8
+10,gasly,Alpine,alpine,Pierre Gasly,Retired,7.0,2025,8
+12,antonelli,Mercedes,mercedes,Kimi Antonelli,Retired,53.0,2025,9
+23,albon,Williams,williams,Alexander Albon,Retired,27.0,2025,9
+4,norris,McLaren,mclaren,Lando Norris,Retired,66.0,2025,10
+30,lawson,Racing Bulls,rb,Liam Lawson,Retired,53.0,2025,10
+23,albon,Williams,williams,Alexander Albon,Retired,46.0,2025,10
+23,albon,Williams,williams,Alexander Albon,Retired,15.0,2025,11
+1,max_verstappen,Red Bull Racing,red_bull,Max Verstappen,Retired,0.0,2025,11
+12,antonelli,Mercedes,mercedes,Kimi Antonelli,Retired,0.0,2025,11
+12,antonelli,Mercedes,mercedes,Kimi Antonelli,Retired,23.0,2025,12
+6,hadjar,Racing Bulls,rb,Isack Hadjar,Retired,17.0,2025,12
+5,bortoleto,Kick Sauber,sauber,Gabriel Bortoleto,Retired,3.0,2025,12
+30,lawson,Racing Bulls,rb,Liam Lawson,Retired,0.0,2025,12
+87,bearman,Haas F1 Team,haas,Oliver Bearman,Retired,48.0,2025,14
+4,norris,McLaren,mclaren,Lando Norris,Retired,64.0,2025,15
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Retired,52.0,2025,15
+44,hamilton,Ferrari,ferrari,Lewis Hamilton,Retired,22.0,2025,15
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Retired,24.0,2025,16
+81,piastri,McLaren,mclaren,Oscar Piastri,Retired,0.0,2025,17
+55,sainz,Williams,williams,Carlos Sainz,Retired,5.0,2025,19
+55,sainz,Williams,williams,Carlos Sainz,Retired,67.0,2025,20
+14,alonso,Aston Martin,aston_martin,Fernando Alonso,Retired,34.0,2025,20
+27,hulkenberg,Kick Sauber,sauber,Nico Hulkenberg,Retired,25.0,2025,20
+30,lawson,Racing Bulls,rb,Liam Lawson,Retired,5.0,2025,20
+44,hamilton,Ferrari,ferrari,Lewis Hamilton,Retired,37.0,2025,21
+16,leclerc,Ferrari,ferrari,Charles Leclerc,Retired,5.0,2025,21
+5,bortoleto,Kick Sauber,sauber,Gabriel Bortoleto,Retired,0.0,2025,21
+23,albon,Williams,williams,Alexander Albon,Retired,35.0,2025,22
+5,bortoleto,Kick Sauber,sauber,Gabriel Bortoleto,Retired,2.0,2025,22
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Retired,0.0,2025,22
+18,stroll,Aston Martin,aston_martin,Lance Stroll,Retired,55.0,2025,23
+6,hadjar,Racing Bulls,rb,Isack Hadjar,Retired,55.0,2025,23
+87,bearman,Haas F1 Team,haas,Oliver Bearman,Retired,41.0,2025,23
+27,hulkenberg,Kick Sauber,sauber,Nico Hulkenberg,Retired,6.0,2025,23
