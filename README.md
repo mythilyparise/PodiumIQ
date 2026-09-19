@@ -1,4 +1,4 @@
-# 🏁 PodiumAI
+# 🏁 PodiumIQ
 
 ## Multi-Agent AI Formula 1 Intelligence Platform
 
